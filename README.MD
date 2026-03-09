@@ -8,7 +8,7 @@
 > | Débora Carolyne Marques Carvalho   | 300624  | Biologia |
 > | Cauã da Silva Oliveira Teodoro  | 300623  | Biologia |
 > | Leonardo Janeis de Melo  | 211884  | Computação |
-> | Gustavo Miguel Caxias Alves  |   | Biologia |
+> | Gustavo Miguel Caxias Alves  | 236875  | Biologia |
 
 # Apresentação
 
