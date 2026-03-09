@@ -5,7 +5,7 @@
 > |--|--|--|
 > | Eduardo A. Marras de Souza  | 300638 | Computação |
 > | Naruan Francisco Ferraz e Ferraz  |   | Biologia |
-> | Debora de Azevedo Rodrigues  | 300624  | Biologia |
+> | Débora Carolyne Marques Carvalho   | 300624  | Biologia |
 > | Cauã da Silva Oliveira Teodoro  | 300623  | Biologia |
 > | Leonardo Janeis de Melo  | 211884  | Computação |
 > | Gustavo Miguel Caxias Alves  |   | Biologia |
