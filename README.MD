@@ -1,5 +1,5 @@
-# Projeto `Primeira Entrega - Projeto de Ciência e Visualização de Dados em Saúde`
-# Project `First Delivery - Project on Science and Data Visualization in Healthcare`
+# Projeto `Grupo Miracídeos - Ciência e Visualização de Dados em Saúde`
+# Project `Miracides Group - Science and Data Visualization in Health`
 
 > |Nome  | RA | Especialização|
 > |--|--|--|
