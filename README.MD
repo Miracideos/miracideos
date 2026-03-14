@@ -4,7 +4,7 @@
 > |Nome  | RA | Especialização|
 > |--|--|--|
 > | Eduardo A. Marras de Souza  | 300638 | Computação |
-> | Débora Rodrigues  |   | Computação |
+> | Débora Rodrigues  | 324128  | Computação |
 > | Débora Carolyne Marques Carvalho   | 300624  | Biologia |
 > | Cauã da Silva Oliveira Teodoro  | 300623  | Biologia |
 > | Leonardo Janeis de Melo  | 211884  | Computação |
