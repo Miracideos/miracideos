@@ -7,7 +7,7 @@
 
 # Slides
 
-> Coloque aqui o link para o PDF da apresentação da parte 1.
+> https://drive.google.com/file/d/1isdbWL9wR6nWxbqA8QjAdPisR0lpaMS2/view?usp=sharing
 
 # Fundamentação Teórica
 
