@@ -12,6 +12,7 @@
 # Fundamentação Teórica
 
 [1] **McManus, D. P., Dunne, D. W., Sacko, M., Utzinger, J., Vennervald, B. J., Zhou, X. N.** *Schistosomiasis*. Nature Reviews Disease Primers, 4, 13, 2018.  
+  
 Base para contextualizar a esquistossomose como problema de saúde pública e descrever o ciclo de vida de *Schistosoma mansoni*, com destaque para o papel do hospedeiro intermediário e do estágio de cercária no problema estudado.
 
 [2] **Colley, D. G., Bustinduy, A. L., Secor, W. E., King, C. H.** *Human schistosomiasis*. The Lancet, 383(9936), 2253–2264, 2014.  
