@@ -76,6 +76,15 @@ Base para justificar o uso de redes de coexpressão gênica como abordagem de an
 
 # Referências Bibliográficas
 
-> Lista de artigos, links e referências bibliográficas.
 >
-> Fiquem à vontade para escolher o padrão de referenciamento preferido pelo grupo.
+> [1] McManus, D. P., Dunne, D. W., Sacko, M., Utzinger, J., Vennervald, B. J., Zhou, X. N. *Schistosomiasis*. Nature Reviews Disease Primers, v. 4, p. 13, 2018.
+>
+> [2] Colley, D. G., Bustinduy, A. L., Secor, W. E., King, C. H. *Human schistosomiasis*. The Lancet, v. 383, n. 9936, p. 2253–2264, 2014.
+>
+> [3] Portet, A., Pinaud, S., Chaparro, C., et al. *Sympatric versus allopatric evolutionary contexts shape differential immune response in Biomphalaria/Schistosoma interaction*. PLOS Pathogens, v. 15, n. 3, e1007647, 2019.
+>
+> [4] Andrews, S. *FastQC: A Quality Control Tool for High Throughput Sequence Data*. 2010. Available online at: http://www.bioinformatics.babraham.ac.uk/projects/fastqc
+>
+> [5] Ewels, P.; Magnusson, M.; Lundin, S.; Käller, M. *MultiQC: summarize analysis results for multiple tools and samples in a single report*. Bioinformatics, v. 32, n. 19, p. 3047–3048, 2016. DOI: 10.1093/bioinformatics/btw354.
+>
+> [6] Patro, R.; Duggal, G.; Love, M. I.; Irizarry, R. A.; Kingsford, C. *Salmon provides fast and bias-aware quantification of transcript expression*. Nature Methods, v. 14, n. 4, p. 417–419, 2017. DOI: 10.1038/nmeth.4197.
