@@ -69,7 +69,6 @@ Base para justificar o uso de redes de coexpressão gênica como abordagem de an
 > **Ferramentas de processamento e normalização dos dados:**  
 > **Python:** manipulação, organização e preparação das matrizes de expressão para análise.  
 > **pandas:** estruturação tabular e processamento dos dados obtidos nas etapas anteriores.  
-> **R:** apoio às etapas de tratamento e normalização dos dados de expressão.
 >
 > **Ferramentas de construção e análise das redes de coexpressão:**  
 > **NetworkX:** modelagem computacional dos grafos e cálculo de propriedades estruturais das redes.  
