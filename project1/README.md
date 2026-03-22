@@ -39,12 +39,9 @@ Base para justificar o uso de redes de coexpressão gênica como abordagem de an
 
 # Bases de Dados
 
-> Elencar bases de dados candidatas a serem utilizadas no projeto na forma de tabela:
-
-> Base de Dados | Endereço na Web | Resumo descritivo
-> ----- | ----- | -----
-> Título da Base 1 | http://base1.org/ | Breve resumo (duas ou três linhas) sobre a base.
-> Título da Base 2 | http://base2.org/ | Breve resumo (duas ou três linhas) sobre a base.
+> | Base de Dados | Endereço na Web | Resumo |
+> |---|---|---|
+> | NCBI SRA – Experimentos SRX447203, SRX447380, SRX447381, SRX448442, SRX448443 e SRX448444 | https://www.ncbi.nlm.nih.gov/sra/SRX448444[accn]<br>https://www.ncbi.nlm.nih.gov/sra/SRX448443[accn]<br>https://www.ncbi.nlm.nih.gov/sra/SRX448442[accn]<br>https://www.ncbi.nlm.nih.gov/sra/SRX447381[accn]<br>https://www.ncbi.nlm.nih.gov/sra/SRX447380[accn]<br>https://www.ncbi.nlm.nih.gov/sra/SRX447203[accn] | Subconjunto operacional da base principal. Esses seis experimentos correspondem às bibliotecas que serão analisadas no projeto para comparar condições simpátricas e alopátricas em cercárias de *S. mansoni*. Eles serão usados para obtenção dos arquivos brutos de RNA-seq e construção das matrizes de expressão. Eles pertencem ao estudo SRP035609, que contém 6 itens de RNA dentro de um conjunto maior de experimentos públicos. |
 
 # Modelo Lógico
 
