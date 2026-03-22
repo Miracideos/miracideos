@@ -29,7 +29,13 @@ Base para justificar o uso de redes de coexpressão gênica como abordagem de an
 
 # Perguntas de Pesquisa
 
-> Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável.
+> Pergunta principal: A interação simpátrica entre Schistosoma mansoni e seu hospedeiro intermediário está associada a padrões distintos de coexpressão gênica nas cercárias, em comparação com interações alopátricas?
+> 
+> Perguntas secundárias: Quais genes apresentam padrões de coexpressão mais característicos em cercárias provenientes de interações simpátricas e alopátricas? Existem módulos ou agrupamentos de genes coexpressos que diferenciam as duas condições experimentais? Há diferenças na organização global das redes de coexpressão gênica entre cercárias simpátricas e alopátricas, considerando propriedades como conectividade e centralidade?
+> 
+> Hipótese: Cercárias de Schistosoma mansoni originadas de interações simpátricas apresentam padrões de coexpressão gênica distintos daqueles observados em interações alopátricas, refletindo diferenças na organização transcriptômica associadas ao contexto biológico da interação parasita-hospedeiro.
+> 
+> Resultado esperado: Espera-se identificar, de forma exploratória, diferenças entre as redes de coexpressão gênica das cercárias em condições simpátricas e alopátricas. Em particular, espera-se observar, nas amostras simpátricas, redes com organização distinta, incluindo possíveis módulos gênicos mais definidos e genes com maior centralidade, potencialmente associados a processos biológicos relacionados à infecção e à adaptação ao hospedeiro.
 
 # Bases de Dados
 
