@@ -48,8 +48,11 @@ Base para justificar o uso de redes de coexpressão gênica como abordagem de an
 > ![Modelo Lógico de Grafos](assets/images/modelologico.png)
 
 # Metodologia
-> Esta seção evoluirá ao longo do projeto. Nesta primeira entrega, informe técnicas de Ciência de Redes que pretende explorar,
-> tais como: detecção de comunidades, análise de centralidade, predição de links, ou a combinação de uma ou mais técnicas. Descreva o que perguntas pretende endereçar cm a técnica escolhida.
+> 1. **Obtenção dos dados:** Os dados de RNA-seq serão obtidos a partir do repositório NCBI Sequence Read Archive (SRA), utilizando o SRA Toolkit. Serão selecionadas bibliotecas correspondentes às condições simpátricas e alopátricas previamente definidas no estudo de origem.
+>
+> 2. **Controle de qualidade:** A qualidade das reads será avaliada com o FastQC, considerando métricas como qualidade por base, conteúdo GC e presença de adaptadores. Os relatórios individuais serão integrados com o MultiQC para uma visão consolidada da qualidade dos dados.
+>
+> 3. **Quantificação da expressão gênica:** A quantificação da abundância de transcritos será realizada com o Salmon, utilizando pseudoalinhamento contra o transcriptoma de referência de *Schistosoma mansoni* (v10). Serão obtidas matrizes de expressão em termos de TPM e contagens brutas.
 
 # Ferramentas
 
