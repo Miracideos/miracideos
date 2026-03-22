@@ -11,12 +11,17 @@
 
 # Fundamentação Teórica
 
-> A esquistossomose é uma doença parasitária negligenciada de grande relevância em saúde pública, causada por vermes do gênero Schistosoma, entre eles Schistosoma mansoni, cujo ciclo de vida envolve caramujos de água doce como hospedeiros intermediários e humanos como hospedeiros definitivos [1,2]. O estágio de cercária é especialmente importante por corresponder à forma infectante liberada pelo caramujo, o que torna biologicamente relevante investigar como interações anteriores com o hospedeiro intermediário podem influenciar seu estado molecular [1,2]. 
-> No contexto da interação entre S. mansoni e Biomphalaria, estudos mostram que o hospedeiro intermediário não atua de forma passiva, mas participa ativamente da dinâmica da infecção por meio de mecanismos de compatibilidade e resposta imune [3]. Essa relação ajuda a justificar a hipótese de que diferentes contextos de interação podem gerar alterações detectáveis no perfil transcriptômico das cercárias [3]. 
-> A distinção entre interações simpátricas e alopátricas é central para o projeto, pois esses contextos refletem combinações parasita-hospedeiro com diferentes histórias evolutivas. Trabalhos recentes indicam que contextos simpátricos e alopátricos podem levar a respostas imunobiológicas distintas na interação Biomphalaria–Schistosoma, sustentando a hipótese de que essas diferenças também possam estar associadas a padrões distintos de expressão e coexpressão gênica nas cercárias [3]. 
-> [1] McManus, D. P., Dunne, D. W., Sacko, M., Utzinger, J., Vennervald, B. J., Zhou, X. N. Schistosomiasis. Nature Reviews Disease Primers, 4, 13, 2018.
-> [2] Colley, D. G., Bustinduy, A. L., Secor, W. E., King, C. H. Human schistosomiasis. The Lancet, 383(9936), 2253–2264, 2014.
-> [3] Portet, A., Pinaud, S., Chaparro, C., et al. Sympatric versus allopatric evolutionary contexts shape differential immune response in Biomphalaria/Schistosoma interaction. PLOS Pathogens, 15(3), e1007647, 2019.
+[1] **McManus, D. P., Dunne, D. W., Sacko, M., Utzinger, J., Vennervald, B. J., Zhou, X. N.** *Schistosomiasis*. Nature Reviews Disease Primers, 4, 13, 2018.  
+Base para contextualizar a esquistossomose como problema de saúde pública e descrever o ciclo de vida de *Schistosoma mansoni*, com destaque para o papel do hospedeiro intermediário e do estágio de cercária no problema estudado.
+
+[2] **Colley, D. G., Bustinduy, A. L., Secor, W. E., King, C. H.** *Human schistosomiasis*. The Lancet, 383(9936), 2253–2264, 2014.  
+Base para reforçar a relevância biomédica da esquistossomose e a importância de compreender os mecanismos biológicos envolvidos na transmissão do parasita.
+
+[3] **Portet, A., Pinaud, S., Chaparro, C., et al.** *Sympatric versus allopatric evolutionary contexts shape differential immune response in Biomphalaria/Schistosoma interaction*. PLOS Pathogens, 15(3), e1007647, 2019.  
+Base para fundamentar a comparação entre interações simpátricas e alopátricas, mostrando que diferentes contextos evolutivos podem influenciar a interação entre *Biomphalaria* e *Schistosoma*.
+
+[4] **Langfelder, P., Horvath, S.** *WGCNA: an R package for weighted correlation network analysis*. BMC Bioinformatics, 9, 559, 2008.  
+Base para justificar o uso de redes de coexpressão gênica como abordagem de análise da organização transcriptômica nos dados do projeto.
 
 # Perguntas de Pesquisa
 
