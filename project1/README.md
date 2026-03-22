@@ -56,7 +56,24 @@ Base para justificar o uso de redes de coexpressão gênica como abordagem de an
 
 # Ferramentas
 
-> Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto).
+> **SRA Toolkit:** obtenção e conversão dos arquivos públicos de RNA-seq disponibilizados no NCBI SRA.
+>
+> **Ferramentas de controle de qualidade:**  
+> **FastQC:** avaliação da qualidade das reads de sequenciamento.  
+> **MultiQC:** agregação e visualização integrada dos relatórios de qualidade.  
+> **Trimmomatic:** remoção de adaptadores e filtragem de reads de baixa qualidade, garantindo maior confiabilidade nas etapas subsequentes de análise.
+>
+> **Ferramentas de quantificação da expressão:**  
+> **Salmon:** quantificação rápida e eficiente da abundância de transcritos, gerando valores de expressão, como TPM e contagens, sem necessidade de alinhamento completo ao genoma de referência.
+>
+> **Ferramentas de processamento e normalização dos dados:**  
+> **Python:** manipulação, organização e preparação das matrizes de expressão para análise.  
+> **pandas:** estruturação tabular e processamento dos dados obtidos nas etapas anteriores.  
+> **R:** apoio às etapas de tratamento e normalização dos dados de expressão.
+>
+> **Ferramentas de construção e análise das redes de coexpressão:**  
+> **NetworkX:** modelagem computacional dos grafos e cálculo de propriedades estruturais das redes.  
+> **Cytoscape:** visualização, exploração e interpretação das redes de coexpressão geradas.
 
 # Referências Bibliográficas
 
