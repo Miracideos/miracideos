@@ -7,7 +7,7 @@
 
 # Slides
 
-> https://drive.google.com/file/d/1isdbWL9wR6nWxbqA8QjAdPisR0lpaMS2/view?usp=sharing
+> https://drive.google.com/file/d/10s8RV2FcoNX5Ds7yalxgaBITPNjUM6wz/view?usp=sharing
 
 # Fundamentação Teórica
 
