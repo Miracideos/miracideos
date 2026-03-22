@@ -45,7 +45,7 @@ Base para justificar o uso de redes de coexpressão gênica como abordagem de an
 
 # Modelo Lógico
 
-> ![Modelo Lógico de Grafos](images/modelologico.png)
+> ![Modelo Lógico de Grafos](project1/assets/images/modelologico.png)
 
 # Metodologia
 > Esta seção evoluirá ao longo do projeto. Nesta primeira entrega, informe técnicas de Ciência de Redes que pretende explorar,
