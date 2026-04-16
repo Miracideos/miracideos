@@ -1,0 +1,2 @@
+SRR1140763 → baixa taxa de mapeamento (~7%)
+SRR1142421 → perfil distinto no PCA
