@@ -67,18 +67,21 @@ O modelo conceitual do projeto considera:
 A construção dessas relações permitirá a análise de conectividade, modularidade e centralidade em redes gênicas.
 
 > ![Modelo Lógico de Grafos](assets/images/modelologico.png)
+>
+
+O modelo lógico do projeto representa a estrutura dos dados em termos de grafos, onde genes são tratados como nós e relações de coexpressão como arestas. A expressão gênica quantificada (TPM) é utilizada para construir uma matriz de expressão, a partir da qual são calculadas medidas de similaridade entre genes, como correlação.
+
+Essas relações permitem a construção de uma rede de coexpressão, onde arestas representam níveis de associação entre pares de genes. As amostras são incorporadas como atributos contextuais, permitindo a análise comparativa entre diferentes condições. A estrutura resultante possibilita o estudo de propriedades topológicas, como conectividade, centralidade e modularidade, além da identificação de grupos de genes com comportamento semelhante.
 
 ---
 
 ## Integração entre Bases
 
-A integração ocorre entre:  
+A integração dos dados ocorre por meio da transformação progressiva das informações ao longo do pipeline. Inicialmente, os dados de RNA-seq em formato bruto (FASTQ) são processados e quantificados, resultando em matrizes de expressão gênica em termos de TPM e contagens.
 
-- Dados de expressão gênica (RNA-seq)  
-- Transcriptoma de referência  
-- Estruturas derivadas (matrizes e correlações)   
+Essas matrizes são utilizadas para calcular medidas de similaridade entre genes ou amostras, como correlação, gerando estruturas que capturam relações de dependência entre os dados. A partir dessas relações, é possível construir redes de coexpressão gênica, onde genes são conectados com base em padrões similares de expressão.
 
-Essa integração permite transformar dados brutos em representações estruturadas, adequadas para modelagem em grafos.
+Essa transformação permite a passagem de dados tabulares para representações estruturadas em forma de grafo, possibilitando a aplicação de métodos de análise de redes e a investigação de propriedades globais do sistema biológico.
 
 ---
 
@@ -87,6 +90,18 @@ Essa integração permite transformar dados brutos em representações estrutura
 Os resultados iniciais indicam alta correlação entre as amostras, com valores superiores a 0.92, sugerindo consistência global nos dados. No entanto, análises de PCA e clustering revelaram a presença de heterogeneidade, com destaque para a amostra SRR1142421, que apresentou um perfil distinto em relação às demais.
 
 A análise de genes mais variáveis e a análise diferencial exploratória identificaram genes fortemente induzidos e reprimidos, reforçando a existência de diferenças biológicas relevantes. A amostra SRR1140763, apesar de incluída na análise, apresentou comportamento potencialmente influenciado por fatores técnicos.
+
+### Visualizações
+
+#### PCA das amostras
+![PCA](assets/images/plots_exploratory-1.png)
+
+#### Outras projeções e análises exploratórias
+![PCA 2](assets/images/plots_exploratory-2.png)
+![PCA 3](assets/images/plots_exploratory-3.png)
+
+#### Heatmap dos genes mais variáveis
+![Heatmap](assets/images/heatmap_top_genes-1.png)
 
 ---
 
