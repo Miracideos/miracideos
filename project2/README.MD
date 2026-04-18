@@ -66,6 +66,8 @@ O modelo conceitual do projeto considera:
 
 A construção dessas relações permitirá a análise de conectividade, modularidade e centralidade em redes gênicas.
 
+> ![Modelo Lógico de Grafos](assets/images/modelologico.png)
+
 ---
 
 ## Integração entre Bases
@@ -113,3 +115,19 @@ A próxima etapa consiste na construção de redes de coexpressão gênica, iden
 [2] EWELS, Philip; MAGNUSSON, Måns; LUNDIN, Sverker; KÄLLER, Max. MultiQC: summarize analysis results for multiple tools and samples in a single report. Bioinformatics, [S.L.], v. 32, n. 19, p. 3047-3048, 16 jun. 2016. Oxford University Press (OUP). http://dx.doi.org/10.1093/bioinformatics/btw354.  
 
 [3] PATRO, Rob; DUGGAL, Geet; LOVE, Michael I; A IRIZARRY, Rafael; KINGSFORD, Carl. Salmon provides fast and bias-aware quantification of transcript expression. Nature Methods, [S.L.], v. 14, n. 4, p. 417-419, 6 mar. 2017. Springer Science and Business Media LLC. http://dx.doi.org/10.1038/nmeth.4197.  
+
+[4] **McManus, D. P., Dunne, D. W., Sacko, M., Utzinger, J., Vennervald, B. J., Zhou, X. N.** *Schistosomiasis*. Nature Reviews Disease Primers, 4, 13, 2018.  
+  
+Base para contextualizar a esquistossomose como problema de saúde pública e descrever o ciclo de vida de *Schistosoma mansoni*, com destaque para o papel do hospedeiro intermediário e do estágio de cercária no problema estudado.
+
+[5] **Colley, D. G., Bustinduy, A. L., Secor, W. E., King, C. H.** *Human schistosomiasis*. The Lancet, 383(9936), 2253–2264, 2014.  
+  
+Base para reforçar a relevância biomédica da esquistossomose e a importância de compreender os mecanismos biológicos envolvidos na transmissão do parasita.
+
+[6] **Portet, A., Pinaud, S., Chaparro, C., et al.** *Sympatric versus allopatric evolutionary contexts shape differential immune response in Biomphalaria/Schistosoma interaction*. PLOS Pathogens, 15(3), e1007647, 2019.  
+  
+Base para fundamentar a comparação entre interações simpátricas e alopátricas, mostrando que diferentes contextos evolutivos podem influenciar a interação entre *Biomphalaria* e *Schistosoma*.
+
+[7] **Langfelder, P., Horvath, S.** *WGCNA: an R package for weighted correlation network analysis*. BMC Bioinformatics, 9, 559, 2008.  
+  
+Base para justificar o uso de redes de coexpressão gênica como abordagem de análise da organização transcriptômica nos dados do projeto.
