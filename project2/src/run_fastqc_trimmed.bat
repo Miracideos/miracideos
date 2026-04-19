@@ -1,8 +1,8 @@
 @echo off
 
-set "PROJECT_ROOT=%~dp0..\.."
-set "TRIMMED_DIR=%PROJECT_ROOT%\qc\trimmed"
-set "OUTPUT_DIR=%PROJECT_ROOT%\qc\trimmed\fastqc_reports"
+set "PROJECT_ROOT=%~dp0.."
+set "TRIMMED_DIR=%PROJECT_ROOT%\data\interim"
+set "OUTPUT_DIR=..\%PROJECT_ROOT%\qc\trimmed"
 
 if not exist "%OUTPUT_DIR%" mkdir "%OUTPUT_DIR%"
 

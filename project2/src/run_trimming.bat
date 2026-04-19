@@ -1,9 +1,10 @@
 @echo off
 cd /d C:\bio\Trimmomatic
 
-set "PROJECT_ROOT=%~dp0..\.."
-set "RAW_DIR=%PROJECT_ROOT%\qc\raw"
-set "TRIMMED_DIR=%PROJECT_ROOT%\qc\trimmed"
+@echo off
+set "PROJECT_ROOT=%~dp0.."
+set "RAW_DIR=%PROJECT_ROOT%\data\raw"
+set "INTERIM_DIR=%PROJECT_ROOT%\data\interim"
 set "TRIMMOMATIC_JAR="
 set "ADAPTERS="
 
