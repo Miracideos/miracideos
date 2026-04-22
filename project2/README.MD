@@ -6,7 +6,7 @@
 
 Este projeto investiga padrões de expressão gênica em amostras de *Schistosoma mansoni* utilizando dados de RNA-seq, com foco na identificação de relações entre genes e na construção futura de redes de coexpressão. A análise busca compreender diferenças entre amostras em termos de perfil transcriptômico e preparar uma base sólida para modelagem baseada em grafos.
 
-Slides da apresentação:  
+# Slides da apresentação:  
 https://drive.google.com/file/d/1RvSEy-yhEFrN1dMVN4ezPd7rAShRHmFx/view?usp=sharing
 
 ---
