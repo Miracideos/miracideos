@@ -122,4 +122,4 @@ Como próximos passos, seria importante:
 
 # Referências Bibliográficas
 
-Adicionar aqui as referências do artigo/dados originais, ferramentas usadas e bases de dados.
+(Referências)
