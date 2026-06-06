@@ -1,0 +1,4892 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d3" for="edge" attr.name="correlation" attr.type="double" />
+  <key id="d2" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d1" for="node" attr.name="variance_log_expression" attr.type="double" />
+  <key id="d0" for="node" attr.name="mean_log_expression" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="Smp_348100.1">
+      <data key="d0">5.759717210693752</data>
+      <data key="d1">14.967345533140431</data>
+    </node>
+    <node id="Smp_204420.1">
+      <data key="d0">4.392020251946428</data>
+      <data key="d1">10.131252231486295</data>
+    </node>
+    <node id="Smp_247660.1">
+      <data key="d0">4.320427033241758</data>
+      <data key="d1">8.84057992655008</data>
+    </node>
+    <node id="Smp_323230.1">
+      <data key="d0">2.4432424420291152</data>
+      <data key="d1">8.418126881348664</data>
+    </node>
+    <node id="Smp_204370.1">
+      <data key="d0">2.4425608656372324</data>
+      <data key="d1">7.96385723602367</data>
+    </node>
+    <node id="Smp_348820.2">
+      <data key="d0">4.166746302689804</data>
+      <data key="d1">7.764135100488481</data>
+    </node>
+    <node id="Smp_181730.1">
+      <data key="d0">3.7234362104953993</data>
+      <data key="d1">6.841724968523863</data>
+    </node>
+    <node id="Smp_331370.1">
+      <data key="d0">3.6911756677947043</data>
+      <data key="d1">6.831371133817124</data>
+    </node>
+    <node id="Smp_204040.1">
+      <data key="d0">2.043469742117234</data>
+      <data key="d1">6.61564122706708</data>
+    </node>
+    <node id="Smp_134410.1">
+      <data key="d0">3.83786800689414</data>
+      <data key="d1">6.592200215093551</data>
+    </node>
+    <node id="Smp_084180.1">
+      <data key="d0">2.036458694357409</data>
+      <data key="d1">5.7536074082622575</data>
+    </node>
+    <node id="Smp_308755.1">
+      <data key="d0">2.0637178192783283</data>
+      <data key="d1">5.721792461732427</data>
+    </node>
+    <node id="Smp_010550.2">
+      <data key="d0">1.7949953797108276</data>
+      <data key="d1">5.673849275784375</data>
+    </node>
+    <node id="Smp_182600.1">
+      <data key="d0">1.952473232834408</data>
+      <data key="d1">5.405524285725917</data>
+    </node>
+    <node id="Smp_200710.1">
+      <data key="d0">1.9170801131154134</data>
+      <data key="d1">4.9365743628276215</data>
+    </node>
+    <node id="Smp_326650.1">
+      <data key="d0">3.001926237339755</data>
+      <data key="d1">4.799645802750767</data>
+    </node>
+    <node id="Smp_322700.1">
+      <data key="d0">3.241844614252172</data>
+      <data key="d1">4.794368740171649</data>
+    </node>
+    <node id="Smp_322700.2">
+      <data key="d0">3.089235441637876</data>
+      <data key="d1">4.641928899072716</data>
+    </node>
+    <node id="Smp_340300.1">
+      <data key="d0">3.163202554653359</data>
+      <data key="d1">4.633215156162232</data>
+    </node>
+    <node id="Smp_302870.1">
+      <data key="d0">3.149569386895288</data>
+      <data key="d1">4.61740765145396</data>
+    </node>
+    <node id="Smp_200770.1">
+      <data key="d0">1.8167488668679188</data>
+      <data key="d1">4.458196918989044</data>
+    </node>
+    <node id="Smp_323360.1">
+      <data key="d0">2.9954047935029307</data>
+      <data key="d1">4.128957682714255</data>
+    </node>
+    <node id="Smp_152630.1">
+      <data key="d0">3.0080767274101636</data>
+      <data key="d1">4.065358675268367</data>
+    </node>
+    <node id="Smp_330170.1">
+      <data key="d0">2.869002397583876</data>
+      <data key="d1">4.04721168981496</data>
+    </node>
+    <node id="Smp_340430.1">
+      <data key="d0">2.943146983105005</data>
+      <data key="d1">3.8974631304856477</data>
+    </node>
+    <node id="Smp_047870.1">
+      <data key="d0">2.9298889539155075</data>
+      <data key="d1">3.843212004066856</data>
+    </node>
+    <node id="Smp_156910.2">
+      <data key="d0">2.853544183779615</data>
+      <data key="d1">3.8083213100381372</data>
+    </node>
+    <node id="Smp_327820.1">
+      <data key="d0">1.36037700947809</data>
+      <data key="d1">3.5616874651525623</data>
+    </node>
+    <node id="Smp_205710.1">
+      <data key="d0">2.804467907202899</data>
+      <data key="d1">3.5408691238280756</data>
+    </node>
+    <node id="Smp_317180.1">
+      <data key="d0">1.597321845252189</data>
+      <data key="d1">3.401991784316595</data>
+    </node>
+    <node id="Smp_341160.2">
+      <data key="d0">1.5307597507188098</data>
+      <data key="d1">3.397944865559112</data>
+    </node>
+    <node id="Smp_330270.1">
+      <data key="d0">1.4334339693116842</data>
+      <data key="d1">3.3951438356468557</data>
+    </node>
+    <node id="Smp_247580.1">
+      <data key="d0">2.0812671280634287</data>
+      <data key="d1">3.323553566475528</data>
+    </node>
+    <node id="Smp_085540.2">
+      <data key="d0">2.290796090269577</data>
+      <data key="d1">3.2998538936918185</data>
+    </node>
+    <node id="Smp_303350.1">
+      <data key="d0">2.4580412555557754</data>
+      <data key="d1">2.9532668253746386</data>
+    </node>
+    <node id="Smp_020450.2">
+      <data key="d0">2.530642334620782</data>
+      <data key="d1">2.8520693441658964</data>
+    </node>
+    <node id="Smp_326770.2">
+      <data key="d0">1.7320870401460629</data>
+      <data key="d1">2.7918098246903313</data>
+    </node>
+    <node id="Smp_173320.2">
+      <data key="d0">2.2883172111095367</data>
+      <data key="d1">2.7855267437285565</data>
+    </node>
+    <node id="Smp_133590.3">
+      <data key="d0">1.4249064158144247</data>
+      <data key="d1">2.7457322092860994</data>
+    </node>
+    <node id="Smp_212190.2">
+      <data key="d0">1.5901007538720222</data>
+      <data key="d1">2.6326794370220763</data>
+    </node>
+    <node id="Smp_305620.1">
+      <data key="d0">2.3840599071488033</data>
+      <data key="d1">2.6137157043466366</data>
+    </node>
+    <node id="Smp_319450.1">
+      <data key="d0">2.3346032278174897</data>
+      <data key="d1">2.5757143086595407</data>
+    </node>
+    <node id="Smp_348840.2">
+      <data key="d0">2.362651557493697</data>
+      <data key="d1">2.5493656687556356</data>
+    </node>
+    <node id="Smp_319120.2">
+      <data key="d0">1.3709435681070303</data>
+      <data key="d1">2.5439211477667296</data>
+    </node>
+    <node id="Smp_246790.1">
+      <data key="d0">2.368756531406394</data>
+      <data key="d1">2.5090717354917116</data>
+    </node>
+    <node id="Smp_316860.1">
+      <data key="d0">2.258066134401191</data>
+      <data key="d1">2.4299593353013806</data>
+    </node>
+    <node id="Smp_051000.1">
+      <data key="d0">1.2464697657334831</data>
+      <data key="d1">2.417278852306414</data>
+    </node>
+    <node id="Smp_348790.2">
+      <data key="d0">2.07149804908858</data>
+      <data key="d1">2.416731476393506</data>
+    </node>
+    <node id="Smp_307630.1">
+      <data key="d0">1.2081402398609582</data>
+      <data key="d1">2.3103484979712765</data>
+    </node>
+    <node id="Smp_023940.1">
+      <data key="d0">0.9385116130826122</data>
+      <data key="d1">2.2591167161700967</data>
+    </node>
+    <node id="Smp_017470.2">
+      <data key="d0">2.1397697149653667</data>
+      <data key="d1">2.243509876650707</data>
+    </node>
+    <node id="Smp_133590.2">
+      <data key="d0">1.5597654666890137</data>
+      <data key="d1">2.2171805246902507</data>
+    </node>
+    <node id="Smp_323280.1">
+      <data key="d0">2.186579687203941</data>
+      <data key="d1">2.2083400010863126</data>
+    </node>
+    <node id="Smp_196880.1">
+      <data key="d0">1.623204897553845</data>
+      <data key="d1">2.17506431166777</data>
+    </node>
+    <node id="Smp_323250.1">
+      <data key="d0">6.126212035313886</data>
+      <data key="d1">2.1618705924849007</data>
+    </node>
+    <node id="Smp_213510.1">
+      <data key="d0">1.7437942380632432</data>
+      <data key="d1">2.098198389340714</data>
+    </node>
+    <node id="Smp_196880.2">
+      <data key="d0">1.2475145948499935</data>
+      <data key="d1">2.0783630581912393</data>
+    </node>
+    <node id="Smp_023940.2">
+      <data key="d0">2.143305792470051</data>
+      <data key="d1">2.0425821382552054</data>
+    </node>
+    <node id="Smp_047870.2">
+      <data key="d0">1.5591379851352491</data>
+      <data key="d1">2.0372528902376934</data>
+    </node>
+    <node id="Smp_335135.1">
+      <data key="d0">10.789647742658456</data>
+      <data key="d1">2.0040488882440184</data>
+    </node>
+    <node id="Smp_323320.1">
+      <data key="d0">9.725989031894601</data>
+      <data key="d1">2.0021952963349157</data>
+    </node>
+    <node id="Smp_323270.1">
+      <data key="d0">7.826894507054435</data>
+      <data key="d1">1.964296656430984</data>
+    </node>
+    <node id="Smp_323440.1">
+      <data key="d0">14.426452228493808</data>
+      <data key="d1">1.8986820880545334</data>
+    </node>
+    <node id="Smp_319290.1">
+      <data key="d0">9.221745527498403</data>
+      <data key="d1">1.8962764906309113</data>
+    </node>
+    <node id="Smp_335130.1">
+      <data key="d0">11.17223836093696</data>
+      <data key="d1">1.8810557068154843</data>
+    </node>
+    <node id="Smp_164270.2">
+      <data key="d0">1.1727354816046223</data>
+      <data key="d1">1.8602375606634158</data>
+    </node>
+    <node id="Smp_022320.3">
+      <data key="d0">2.0341557758107154</data>
+      <data key="d1">1.8399417696037104</data>
+    </node>
+    <node id="Smp_343170.2">
+      <data key="d0">2.6157980547253326</data>
+      <data key="d1">1.8236356164025886</data>
+    </node>
+    <node id="Smp_348910.1">
+      <data key="d0">1.144538656283198</data>
+      <data key="d1">1.8205545410197275</data>
+    </node>
+    <node id="Smp_175880.1">
+      <data key="d0">1.8465795754158592</data>
+      <data key="d1">1.805503992520987</data>
+    </node>
+    <node id="Smp_332780.1">
+      <data key="d0">1.8962076687015046</data>
+      <data key="d1">1.800709887299889</data>
+    </node>
+    <node id="Smp_320200.1">
+      <data key="d0">1.978412082748108</data>
+      <data key="d1">1.7647380271527056</data>
+    </node>
+    <node id="Smp_085830.1">
+      <data key="d0">1.6622734700746378</data>
+      <data key="d1">1.724491368810761</data>
+    </node>
+    <node id="Smp_200130.1">
+      <data key="d0">3.6242260207307035</data>
+      <data key="d1">1.7221327843592584</data>
+    </node>
+    <node id="Smp_170910.1">
+      <data key="d0">1.0352114845163811</data>
+      <data key="d1">1.7209319789144348</data>
+    </node>
+    <node id="Smp_345290.1">
+      <data key="d0">1.9024200976963983</data>
+      <data key="d1">1.7207889171468962</data>
+    </node>
+    <node id="Smp_319970.1">
+      <data key="d0">0.9060917039888262</data>
+      <data key="d1">1.7159974942354193</data>
+    </node>
+    <node id="Smp_051000.2">
+      <data key="d0">1.9610181233405188</data>
+      <data key="d1">1.712999526058657</data>
+    </node>
+    <node id="Smp_167840.1">
+      <data key="d0">0.9918356021851878</data>
+      <data key="d1">1.7114931528713333</data>
+    </node>
+    <node id="Smp_097940.1">
+      <data key="d0">1.92961280957849</data>
+      <data key="d1">1.7006491670651187</data>
+    </node>
+    <node id="Smp_017470.1">
+      <data key="d0">2.837948444743218</data>
+      <data key="d1">1.6988093639029038</data>
+    </node>
+    <node id="Smp_305460.1">
+      <data key="d0">1.7297144062711058</data>
+      <data key="d1">1.695916890408929</data>
+    </node>
+    <node id="Smp_247700.1">
+      <data key="d0">0.9916450061995761</data>
+      <data key="d1">1.6853886737270287</data>
+    </node>
+    <node id="Smp_017710.1">
+      <data key="d0">2.267657350028229</data>
+      <data key="d1">1.6791758883744086</data>
+    </node>
+    <node id="Smp_309730.1">
+      <data key="d0">1.0649804995567678</data>
+      <data key="d1">1.6771556710838214</data>
+    </node>
+    <node id="Smp_318100.1">
+      <data key="d0">1.236062621337813</data>
+      <data key="d1">1.6522497807829521</data>
+    </node>
+    <node id="Smp_266830.2">
+      <data key="d0">1.4131248868149817</data>
+      <data key="d1">1.6487948433738389</data>
+    </node>
+    <node id="Smp_327370.1">
+      <data key="d0">1.1514008822226718</data>
+      <data key="d1">1.6431234655380222</data>
+    </node>
+    <node id="Smp_332910.2">
+      <data key="d0">1.7910753317288926</data>
+      <data key="d1">1.6271881160849748</data>
+    </node>
+    <node id="Smp_150080.2">
+      <data key="d0">1.8757120914057457</data>
+      <data key="d1">1.6023193870640744</data>
+    </node>
+    <node id="Smp_105180.2">
+      <data key="d0">1.8910116526136642</data>
+      <data key="d1">1.5974316608386234</data>
+    </node>
+    <node id="Smp_063530.1">
+      <data key="d0">1.292986627990838</data>
+      <data key="d1">1.5967135235089858</data>
+    </node>
+    <node id="Smp_302040.3">
+      <data key="d0">1.862349241097133</data>
+      <data key="d1">1.5938026296797823</data>
+    </node>
+    <node id="Smp_340840.1">
+      <data key="d0">1.090485450909788</data>
+      <data key="d1">1.5890964667779677</data>
+    </node>
+    <node id="Smp_310150.1">
+      <data key="d0">1.5331468800336059</data>
+      <data key="d1">1.5799740157600184</data>
+    </node>
+    <node id="Smp_093430.1">
+      <data key="d0">1.8708525687368578</data>
+      <data key="d1">1.5708599897396371</data>
+    </node>
+    <node id="Smp_130520.3">
+      <data key="d0">1.0830730562517885</data>
+      <data key="d1">1.5649734465753793</data>
+    </node>
+    <node id="Smp_060620.1">
+      <data key="d0">0.8828747632236191</data>
+      <data key="d1">1.5550939993732475</data>
+    </node>
+    <node id="Smp_332840.1">
+      <data key="d0">1.1168966755010146</data>
+      <data key="d1">1.549904623651375</data>
+    </node>
+    <node id="Smp_172510.2">
+      <data key="d0">1.6792163047238238</data>
+      <data key="d1">1.5398253171404856</data>
+    </node>
+    <node id="Smp_155320.1">
+      <data key="d0">3.681487834230805</data>
+      <data key="d1">1.5273445006080475</data>
+    </node>
+    <node id="Smp_323270.2">
+      <data key="d0">6.954015399767719</data>
+      <data key="d1">1.5132516300467274</data>
+    </node>
+    <node id="Smp_046060.1">
+      <data key="d0">3.6322045392379065</data>
+      <data key="d1">1.477677994467787</data>
+    </node>
+    <node id="Smp_122790.2">
+      <data key="d0">2.059921082965108</data>
+      <data key="d1">1.4722776704329477</data>
+    </node>
+    <node id="Smp_163570.2">
+      <data key="d0">1.8082239510017029</data>
+      <data key="d1">1.4697187400665772</data>
+    </node>
+    <node id="Smp_345970.2">
+      <data key="d0">1.7555149815546296</data>
+      <data key="d1">1.4685569342979532</data>
+    </node>
+    <node id="Smp_201530.1">
+      <data key="d0">0.9879767623645328</data>
+      <data key="d1">1.4665726308351683</data>
+    </node>
+    <node id="Smp_246050.2">
+      <data key="d0">1.6764233860508</data>
+      <data key="d1">1.4515275925892752</data>
+    </node>
+    <node id="Smp_163600.1">
+      <data key="d0">1.020261516712687</data>
+      <data key="d1">1.430447146776676</data>
+    </node>
+    <node id="Smp_331190.1">
+      <data key="d0">3.29152087554658</data>
+      <data key="d1">1.4080918078972229</data>
+    </node>
+    <node id="Smp_049230.1">
+      <data key="d0">4.471180102995437</data>
+      <data key="d1">1.39684439764177</data>
+    </node>
+    <node id="Smp_019840.1">
+      <data key="d0">3.2231294385102283</data>
+      <data key="d1">1.396315703623044</data>
+    </node>
+    <node id="Smp_091190.2">
+      <data key="d0">0.9491800051909515</data>
+      <data key="d1">1.3862753587887522</data>
+    </node>
+    <node id="Smp_346930.2">
+      <data key="d0">2.6610592905776347</data>
+      <data key="d1">1.3734386610285014</data>
+    </node>
+    <node id="Smp_346380.2">
+      <data key="d0">2.518613096978831</data>
+      <data key="d1">1.3422014272361764</data>
+    </node>
+    <node id="Smp_164270.1">
+      <data key="d0">1.5188453866049754</data>
+      <data key="d1">1.3377663126425272</data>
+    </node>
+    <node id="Smp_165350.1">
+      <data key="d0">1.6297455017878502</data>
+      <data key="d1">1.3323788908968617</data>
+    </node>
+    <node id="Smp_000500.1">
+      <data key="d0">4.23632168363265</data>
+      <data key="d1">1.3230595867065378</data>
+    </node>
+    <node id="Smp_312610.1">
+      <data key="d0">1.6855535868748794</data>
+      <data key="d1">1.2955679251913763</data>
+    </node>
+    <node id="Smp_150230.1">
+      <data key="d0">1.445346992574605</data>
+      <data key="d1">1.2822196003059878</data>
+    </node>
+    <node id="Smp_324700.1">
+      <data key="d0">2.3978309465593965</data>
+      <data key="d1">1.2709653660312854</data>
+    </node>
+    <node id="Smp_165050.1">
+      <data key="d0">6.295628912592206</data>
+      <data key="d1">1.253486224990097</data>
+    </node>
+    <node id="Smp_323240.1">
+      <data key="d0">2.9686999934525193</data>
+      <data key="d1">1.2400563875157595</data>
+    </node>
+    <node id="Smp_163600.2">
+      <data key="d0">1.6554323137767732</data>
+      <data key="d1">1.2361672919814426</data>
+    </node>
+    <node id="Smp_349140.1">
+      <data key="d0">3.434206647928712</data>
+      <data key="d1">1.2309659827103652</data>
+    </node>
+    <node id="Smp_133590.1">
+      <data key="d0">2.5778814887431967</data>
+      <data key="d1">1.2231409135901241</data>
+    </node>
+    <node id="Smp_133860.1">
+      <data key="d0">2.2209861017135095</data>
+      <data key="d1">1.220810956247516</data>
+    </node>
+    <node id="Smp_332090.1">
+      <data key="d0">1.347843589767267</data>
+      <data key="d1">1.219681989105862</data>
+    </node>
+    <node id="Smp_055090.3">
+      <data key="d0">1.4584821776884966</data>
+      <data key="d1">1.2176139002418898</data>
+    </node>
+    <node id="Smp_347490.1">
+      <data key="d0">1.2741724089196789</data>
+      <data key="d1">1.2073707209115145</data>
+    </node>
+    <node id="Smp_125250.1">
+      <data key="d0">1.5136852206745322</data>
+      <data key="d1">1.2049525833514598</data>
+    </node>
+    <node id="Smp_139080.2">
+      <data key="d0">1.6310051266214054</data>
+      <data key="d1">1.1999155931331145</data>
+    </node>
+    <node id="Smp_331440.1">
+      <data key="d0">1.4106011957287217</data>
+      <data key="d1">1.1991574237666285</data>
+    </node>
+    <node id="Smp_312620.1">
+      <data key="d0">1.1056956593752405</data>
+      <data key="d1">1.1973285962383942</data>
+    </node>
+    <node id="Smp_322930.1">
+      <data key="d0">1.0709630270256612</data>
+      <data key="d1">1.185792852327572</data>
+    </node>
+    <node id="Smp_341200.2">
+      <data key="d0">2.219415759943121</data>
+      <data key="d1">1.183640891253307</data>
+    </node>
+    <node id="Smp_328440.1">
+      <data key="d0">0.7522975586862775</data>
+      <data key="d1">1.1750907488705107</data>
+    </node>
+    <node id="Smp_246970.1">
+      <data key="d0">1.1660931370407357</data>
+      <data key="d1">1.171415910048901</data>
+    </node>
+    <node id="Smp_317510.1">
+      <data key="d0">0.8528302134993394</data>
+      <data key="d1">1.1608769146668394</data>
+    </node>
+    <node id="Smp_131390.1">
+      <data key="d0">2.285418495645005</data>
+      <data key="d1">1.1573478490668057</data>
+    </node>
+    <node id="Smp_106010.1">
+      <data key="d0">1.4267368971319379</data>
+      <data key="d1">1.1555732170898836</data>
+    </node>
+    <node id="Smp_326490.1">
+      <data key="d0">2.8201354161660275</data>
+      <data key="d1">1.1495273357999347</data>
+    </node>
+    <node id="Smp_001890.1">
+      <data key="d0">1.329573512883449</data>
+      <data key="d1">1.1426267558320888</data>
+    </node>
+    <node id="Smp_322760.1">
+      <data key="d0">1.323390200105487</data>
+      <data key="d1">1.1415584469404962</data>
+    </node>
+    <node id="Smp_336310.2">
+      <data key="d0">1.594010015877928</data>
+      <data key="d1">1.1368962720555846</data>
+    </node>
+    <node id="Smp_320400.1">
+      <data key="d0">1.5605287290254428</data>
+      <data key="d1">1.1336540350731448</data>
+    </node>
+    <node id="Smp_012350.1">
+      <data key="d0">1.5642269384392768</data>
+      <data key="d1">1.1089695298377824</data>
+    </node>
+    <node id="Smp_005190.3">
+      <data key="d0">1.5143762533266847</data>
+      <data key="d1">1.1085623114914658</data>
+    </node>
+    <node id="Smp_210520.2">
+      <data key="d0">1.512737248533854</data>
+      <data key="d1">1.1063180075612935</data>
+    </node>
+    <node id="Smp_176260.1">
+      <data key="d0">1.349164495536879</data>
+      <data key="d1">1.102319891087235</data>
+    </node>
+    <node id="Smp_335380.1">
+      <data key="d0">1.1474090943394775</data>
+      <data key="d1">1.101146027239278</data>
+    </node>
+    <node id="Smp_019690.2">
+      <data key="d0">3.8380919383806438</data>
+      <data key="d1">1.0998488214958655</data>
+    </node>
+    <node id="Smp_131680.2">
+      <data key="d0">1.4245910753864717</data>
+      <data key="d1">1.0988103798778686</data>
+    </node>
+    <node id="Smp_130470.2">
+      <data key="d0">1.5093792905513146</data>
+      <data key="d1">1.0892425230487277</data>
+    </node>
+    <node id="Smp_307220.3">
+      <data key="d0">1.2203358830306323</data>
+      <data key="d1">1.0887469759639927</data>
+    </node>
+    <node id="Smp_335785.1">
+      <data key="d0">5.672785672220916</data>
+      <data key="d1">1.0864032917473323</data>
+    </node>
+    <node id="Smp_310980.1">
+      <data key="d0">0.625338478650778</data>
+      <data key="d1">1.0796695612535836</data>
+    </node>
+    <node id="Smp_192010.1">
+      <data key="d0">0.7195419280426006</data>
+      <data key="d1">1.0744448435670728</data>
+    </node>
+    <node id="Smp_349480.1">
+      <data key="d0">1.9611345179895747</data>
+      <data key="d1">1.0721504301717788</data>
+    </node>
+    <node id="Smp_318200.2">
+      <data key="d0">0.8890157929025599</data>
+      <data key="d1">1.064626509064813</data>
+    </node>
+    <node id="Smp_181080.2">
+      <data key="d0">1.0838439075021082</data>
+      <data key="d1">1.0631142855447109</data>
+    </node>
+    <node id="Smp_335370.1">
+      <data key="d0">0.9920962010014255</data>
+      <data key="d1">1.0591475171574878</data>
+    </node>
+    <node id="Smp_022320.2">
+      <data key="d0">0.8230583107126596</data>
+      <data key="d1">1.0546708000059033</data>
+    </node>
+    <node id="Smp_088420.1">
+      <data key="d0">3.2348830304459844</data>
+      <data key="d1">1.0504426288302318</data>
+    </node>
+    <node id="Smp_201340.1">
+      <data key="d0">0.8246972804758568</data>
+      <data key="d1">1.047911736242035</data>
+    </node>
+    <node id="Smp_170770.1">
+      <data key="d0">1.2374533815056639</data>
+      <data key="d1">1.0408214374914693</data>
+    </node>
+    <node id="Smp_331590.1">
+      <data key="d0">1.4073764227246846</data>
+      <data key="d1">1.0403209297926816</data>
+    </node>
+    <node id="Smp_332600.2">
+      <data key="d0">1.1611025239821269</data>
+      <data key="d1">1.0392605662069117</data>
+    </node>
+    <node id="Smp_062020.1">
+      <data key="d0">1.479685815059465</data>
+      <data key="d1">1.026728686843284</data>
+    </node>
+    <node id="Smp_032670.1">
+      <data key="d0">0.9264215728151068</data>
+      <data key="d1">1.0236258168139434</data>
+    </node>
+    <node id="Smp_168080.2">
+      <data key="d0">1.296091970911478</data>
+      <data key="d1">1.0197314625855547</data>
+    </node>
+    <node id="Smp_043500.2">
+      <data key="d0">2.1344931955961344</data>
+      <data key="d1">1.0161764417515895</data>
+    </node>
+    <node id="Smp_040710.2">
+      <data key="d0">1.0430013526681843</data>
+      <data key="d1">1.0135328838189284</data>
+    </node>
+    <node id="Smp_146150.1">
+      <data key="d0">1.4016436914182215</data>
+      <data key="d1">1.009630678679429</data>
+    </node>
+    <node id="Smp_194370.1">
+      <data key="d0">1.3912845400890559</data>
+      <data key="d1">1.008284374098478</data>
+    </node>
+    <node id="Smp_343390.1">
+      <data key="d0">0.802471844530189</data>
+      <data key="d1">1.0073053886144907</data>
+    </node>
+    <node id="Smp_000790.2">
+      <data key="d0">3.658611787905585</data>
+      <data key="d1">1.0053716577140408</data>
+    </node>
+    <node id="Smp_313630.1">
+      <data key="d0">2.2661972192212034</data>
+      <data key="d1">1.0021448376291389</data>
+    </node>
+    <node id="Smp_347590.1">
+      <data key="d0">2.528702155684285</data>
+      <data key="d1">0.9952906614317542</data>
+    </node>
+    <node id="Smp_320100.1">
+      <data key="d0">0.9746569761367138</data>
+      <data key="d1">0.9928608678277513</data>
+    </node>
+    <node id="Smp_304890.1">
+      <data key="d0">1.4198714092422038</data>
+      <data key="d1">0.9801983312789481</data>
+    </node>
+    <node id="Smp_331170.2">
+      <data key="d0">1.4661828703806288</data>
+      <data key="d1">0.9776086264600666</data>
+    </node>
+    <node id="Smp_246050.3">
+      <data key="d0">1.1685174432337038</data>
+      <data key="d1">0.9772260461672261</data>
+    </node>
+    <node id="Smp_171140.1">
+      <data key="d0">1.460397796268134</data>
+      <data key="d1">0.9715729371348146</data>
+    </node>
+    <node id="Smp_149380.2">
+      <data key="d0">1.426396834403835</data>
+      <data key="d1">0.9693012604950978</data>
+    </node>
+    <node id="Smp_335110.1">
+      <data key="d0">3.069432400025124</data>
+      <data key="d1">0.9676145846356653</data>
+    </node>
+    <node id="Smp_121990.2">
+      <data key="d0">2.6703542991563745</data>
+      <data key="d1">0.9537781861731506</data>
+    </node>
+    <node id="Smp_152590.1">
+      <data key="d0">5.576878489353115</data>
+      <data key="d1">0.9493212254908543</data>
+    </node>
+    <node id="Smp_334920.1">
+      <data key="d0">0.90895555218544</data>
+      <data key="d1">0.9456687599964525</data>
+    </node>
+    <node id="Smp_347900.1">
+      <data key="d0">1.341527334073159</data>
+      <data key="d1">0.94439060736293</data>
+    </node>
+    <node id="Smp_010550.1">
+      <data key="d0">0.7943137229539412</data>
+      <data key="d1">0.9421751066262342</data>
+    </node>
+    <node id="Smp_170770.2">
+      <data key="d0">0.8370911428943302</data>
+      <data key="d1">0.9371279004314724</data>
+    </node>
+    <node id="Smp_130520.1">
+      <data key="d0">2.521567599629824</data>
+      <data key="d1">0.9314042953419891</data>
+    </node>
+    <node id="Smp_302270.1">
+      <data key="d0">4.825060156081327</data>
+      <data key="d1">0.9296788922646332</data>
+    </node>
+    <node id="Smp_316910.1">
+      <data key="d0">0.8338502132757453</data>
+      <data key="d1">0.9284969914440505</data>
+    </node>
+    <node id="Smp_063530.2">
+      <data key="d0">1.3956345001490988</data>
+      <data key="d1">0.9254551906302203</data>
+    </node>
+    <node id="Smp_082410.1">
+      <data key="d0">1.1362429633033138</data>
+      <data key="d1">0.923066820000324</data>
+    </node>
+    <node id="Smp_181180.2">
+      <data key="d0">1.3881452576709015</data>
+      <data key="d1">0.9228401754752813</data>
+    </node>
+    <node id="Smp_141010.2">
+      <data key="d0">0.6291734173777038</data>
+      <data key="d1">0.9198859297331835</data>
+    </node>
+    <node id="Smp_150230.2">
+      <data key="d0">1.9701114873706551</data>
+      <data key="d1">0.9175064683980211</data>
+    </node>
+    <node id="Smp_004690.2">
+      <data key="d0">4.988610451751297</data>
+      <data key="d1">0.9164137248987236</data>
+    </node>
+    <node id="Smp_167630.2">
+      <data key="d0">1.3351118379397466</data>
+      <data key="d1">0.9115918246143117</data>
+    </node>
+    <node id="Smp_041500.2">
+      <data key="d0">4.424188576886111</data>
+      <data key="d1">0.9098294533142041</data>
+    </node>
+    <node id="Smp_181080.1">
+      <data key="d0">0.8137203823855726</data>
+      <data key="d1">0.9061374310799394</data>
+    </node>
+    <node id="Smp_246970.2">
+      <data key="d0">0.8170068312364553</data>
+      <data key="d1">0.8974063003507147</data>
+    </node>
+    <node id="Smp_051670.1">
+      <data key="d0">0.9699298010466918</data>
+      <data key="d1">0.8935241592044928</data>
+    </node>
+    <node id="Smp_152580.1">
+      <data key="d0">0.8134551303584814</data>
+      <data key="d1">0.8932717848987403</data>
+    </node>
+    <node id="Smp_007630.2">
+      <data key="d0">4.458716659756698</data>
+      <data key="d1">0.8886756887120563</data>
+    </node>
+    <node id="Smp_211020.1">
+      <data key="d0">0.7999754200067484</data>
+      <data key="d1">0.8838754656449281</data>
+    </node>
+    <node id="Smp_048050.2">
+      <data key="d0">4.249641857086605</data>
+      <data key="d1">0.882922223888415</data>
+    </node>
+    <node id="Smp_318260.2">
+      <data key="d0">0.9896810530233189</data>
+      <data key="d1">0.8801454016522966</data>
+    </node>
+    <node id="Smp_212300.2">
+      <data key="d0">0.7866563750340769</data>
+      <data key="d1">0.8799764664849317</data>
+    </node>
+    <node id="Smp_019690.1">
+      <data key="d0">5.117179755781546</data>
+      <data key="d1">0.8796448685226177</data>
+    </node>
+    <node id="Smp_137840.2">
+      <data key="d0">2.123186259083803</data>
+      <data key="d1">0.8714236795250937</data>
+    </node>
+    <node id="Smp_328620.2">
+      <data key="d0">0.5842319674132046</data>
+      <data key="d1">0.8670852944364337</data>
+    </node>
+    <node id="Smp_181180.1">
+      <data key="d0">1.3423253601836864</data>
+      <data key="d1">0.855005570553066</data>
+    </node>
+    <node id="Smp_179970.1">
+      <data key="d0">3.113658091689964</data>
+      <data key="d1">0.8489172833557399</data>
+    </node>
+    <node id="Smp_323420.1">
+      <data key="d0">0.9846581527434725</data>
+      <data key="d1">0.8463064646098232</data>
+    </node>
+    <node id="Smp_244890.1">
+      <data key="d0">1.2363674843826464</data>
+      <data key="d1">0.8449396503595207</data>
+    </node>
+    <node id="Smp_348240.1">
+      <data key="d0">0.9747664064606253</data>
+      <data key="d1">0.842112522309925</data>
+    </node>
+    <node id="Smp_331380.1">
+      <data key="d0">2.4249838095970477</data>
+      <data key="d1">0.8412220316090323</data>
+    </node>
+    <node id="Smp_302310.2">
+      <data key="d0">2.038421776349284</data>
+      <data key="d1">0.8404553233455235</data>
+    </node>
+    <node id="Smp_335670.1">
+      <data key="d0">2.486187100012594</data>
+      <data key="d1">0.8402590963931175</data>
+    </node>
+    <node id="Smp_129410.1">
+      <data key="d0">1.3320907257998094</data>
+      <data key="d1">0.8399148330688444</data>
+    </node>
+    <node id="Smp_327460.1">
+      <data key="d0">0.7700213655117396</data>
+      <data key="d1">0.8382104428249072</data>
+    </node>
+    <node id="Smp_331600.1">
+      <data key="d0">1.2705630227199212</data>
+      <data key="d1">0.8374317536010984</data>
+    </node>
+    <node id="Smp_314280.1">
+      <data key="d0">1.7451571364758005</data>
+      <data key="d1">0.8349114284339425</data>
+    </node>
+    <node id="Smp_000790.1">
+      <data key="d0">3.3282112811919156</data>
+      <data key="d1">0.834356990384452</data>
+    </node>
+    <node id="Smp_322980.1">
+      <data key="d0">2.2855334002339887</data>
+      <data key="d1">0.8314005384440071</data>
+    </node>
+    <node id="Smp_056460.1">
+      <data key="d0">0.6720006080591996</data>
+      <data key="d1">0.8217703743483398</data>
+    </node>
+    <node id="Smp_058140.1">
+      <data key="d0">1.9436637982742435</data>
+      <data key="d1">0.8163579672114246</data>
+    </node>
+    <node id="Smp_054620.3">
+      <data key="d0">1.1943199060598975</data>
+      <data key="d1">0.8105832454615491</data>
+    </node>
+    <node id="Smp_344420.1">
+      <data key="d0">0.8954899638756133</data>
+      <data key="d1">0.8057832104139436</data>
+    </node>
+    <node id="Smp_127870.1">
+      <data key="d0">1.194362711339164</data>
+      <data key="d1">0.8029350494179024</data>
+    </node>
+    <node id="Smp_244860.1">
+      <data key="d0">1.5125559021716615</data>
+      <data key="d1">0.8025176710546716</data>
+    </node>
+    <node id="Smp_074390.1">
+      <data key="d0">3.1757641760845505</data>
+      <data key="d1">0.8017101075313513</data>
+    </node>
+    <node id="Smp_020450.1">
+      <data key="d0">3.3484759843153458</data>
+      <data key="d1">0.7984562521447365</data>
+    </node>
+    <node id="Smp_154900.1">
+      <data key="d0">1.103304828240736</data>
+      <data key="d1">0.7961872603516312</data>
+    </node>
+    <node id="Smp_205300.2">
+      <data key="d0">2.910622593865093</data>
+      <data key="d1">0.7959474464841169</data>
+    </node>
+    <node id="Smp_152290.1">
+      <data key="d0">1.3353095584916448</data>
+      <data key="d1">0.7952592633603442</data>
+    </node>
+    <node id="Smp_140260.1">
+      <data key="d0">0.7641686072398407</data>
+      <data key="d1">0.7924825226657785</data>
+    </node>
+    <node id="Smp_046060.2">
+      <data key="d0">3.433590134821926</data>
+      <data key="d1">0.7915133866920531</data>
+    </node>
+    <node id="Smp_058140.3">
+      <data key="d0">1.646525871104413</data>
+      <data key="d1">0.7896545292161975</data>
+    </node>
+    <node id="Smp_337670.1">
+      <data key="d0">4.11728748524554</data>
+      <data key="d1">0.7864568288322928</data>
+    </node>
+    <node id="Smp_346960.1">
+      <data key="d0">3.375008159169228</data>
+      <data key="d1">0.7834355780145851</data>
+    </node>
+    <node id="Smp_314730.1">
+      <data key="d0">2.159616789217699</data>
+      <data key="d1">0.7782496398476768</data>
+    </node>
+    <node id="Smp_347560.1">
+      <data key="d0">1.1306070455024617</data>
+      <data key="d1">0.7781686115948089</data>
+    </node>
+    <node id="Smp_179390.1">
+      <data key="d0">5.727835011110378</data>
+      <data key="d1">0.7775989475581406</data>
+    </node>
+    <node id="Smp_214020.2">
+      <data key="d0">0.7454625830444561</data>
+      <data key="d1">0.7767260645906949</data>
+    </node>
+    <node id="Smp_071590.1">
+      <data key="d0">2.992176643170532</data>
+      <data key="d1">0.776061976535797</data>
+    </node>
+    <node id="Smp_140200.2">
+      <data key="d0">1.6809186413805541</data>
+      <data key="d1">0.7742532297942563</data>
+    </node>
+    <node id="Smp_127680.1">
+      <data key="d0">1.426052606062123</data>
+      <data key="d1">0.772577565639058</data>
+    </node>
+    <node id="Smp_130520.4">
+      <data key="d0">1.2564738139432852</data>
+      <data key="d1">0.7665259246038149</data>
+    </node>
+    <node id="Smp_304890.2">
+      <data key="d0">1.0978476411641789</data>
+      <data key="d1">0.7648976486940032</data>
+    </node>
+    <node id="Smp_173380.1">
+      <data key="d0">1.0006873791011657</data>
+      <data key="d1">0.7634783048294954</data>
+    </node>
+    <node id="Smp_245600.2">
+      <data key="d0">0.4920882457650788</data>
+      <data key="d1">0.7531085605748866</data>
+    </node>
+    <node id="Smp_317240.1">
+      <data key="d0">3.2906562339445475</data>
+      <data key="d1">0.7481687401584428</data>
+    </node>
+    <node id="Smp_340300.2">
+      <data key="d0">3.872901243591243</data>
+      <data key="d1">0.7457801086254747</data>
+    </node>
+    <node id="Smp_345970.1">
+      <data key="d0">1.9824735353913474</data>
+      <data key="d1">0.7452564060451858</data>
+    </node>
+    <node id="Smp_141010.3">
+      <data key="d0">1.2680231844856333</data>
+      <data key="d1">0.7421717785103983</data>
+    </node>
+    <node id="Smp_328910.1">
+      <data key="d0">3.037104176122709</data>
+      <data key="d1">0.7364648362762388</data>
+    </node>
+    <node id="Smp_055870.2">
+      <data key="d0">3.9450848553732456</data>
+      <data key="d1">0.7363535602432628</data>
+    </node>
+    <node id="Smp_058050.1">
+      <data key="d0">2.4277448673056354</data>
+      <data key="d1">0.7313660191318455</data>
+    </node>
+    <node id="Smp_200460.1">
+      <data key="d0">2.209280837912451</data>
+      <data key="d1">0.7290257663192442</data>
+    </node>
+    <node id="Smp_193680.1">
+      <data key="d0">3.152905180664644</data>
+      <data key="d1">0.7253864083868268</data>
+    </node>
+    <node id="Smp_061250.2">
+      <data key="d0">1.2174862794125016</data>
+      <data key="d1">0.7247837164134864</data>
+    </node>
+    <node id="Smp_029210.2">
+      <data key="d0">1.2371829809469344</data>
+      <data key="d1">0.7214225319292861</data>
+    </node>
+    <node id="Smp_203090.1">
+      <data key="d0">0.6437219845810968</data>
+      <data key="d1">0.7213707312237806</data>
+    </node>
+    <node id="Smp_169220.1">
+      <data key="d0">1.7454793617265152</data>
+      <data key="d1">0.7207739629457834</data>
+    </node>
+    <node id="Smp_347540.2">
+      <data key="d0">0.4904564920166311</data>
+      <data key="d1">0.7197940299901896</data>
+    </node>
+    <node id="Smp_328360.1">
+      <data key="d0">2.9639081295192655</data>
+      <data key="d1">0.7101058534619523</data>
+    </node>
+    <node id="Smp_150000.1">
+      <data key="d0">2.2664126630851666</data>
+      <data key="d1">0.7081549867137146</data>
+    </node>
+    <node id="Smp_336340.1">
+      <data key="d0">1.8591121860074133</data>
+      <data key="d1">0.7073870335431929</data>
+    </node>
+    <node id="Smp_141290.1">
+      <data key="d0">0.6730060822018242</data>
+      <data key="d1">0.706331948739603</data>
+    </node>
+    <node id="Smp_341710.1">
+      <data key="d0">6.2385136072425125</data>
+      <data key="d1">0.7061215453541562</data>
+    </node>
+    <node id="Smp_028210.2">
+      <data key="d0">0.8035432419890725</data>
+      <data key="d1">0.7013598679472469</data>
+    </node>
+    <node id="Smp_086330.2">
+      <data key="d0">1.827850117459881</data>
+      <data key="d1">0.6977314464696794</data>
+    </node>
+    <node id="Smp_244440.1">
+      <data key="d0">0.9723413507850138</data>
+      <data key="d1">0.6932076622650207</data>
+    </node>
+    <edge source="Smp_348100.1" target="Smp_328440.1">
+      <data key="d2">0.9806871503925683</data>
+      <data key="d3">-0.9806871503925683</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204420.1" target="Smp_318100.1">
+      <data key="d2">0.97560541004654</data>
+      <data key="d3">-0.97560541004654</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204420.1" target="Smp_327370.1">
+      <data key="d2">0.9841221220473388</data>
+      <data key="d3">-0.9841221220473388</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204420.1" target="Smp_019690.2">
+      <data key="d2">0.9791748809419331</data>
+      <data key="d3">-0.9791748809419331</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204420.1" target="Smp_032670.1">
+      <data key="d2">0.9885660711721797</data>
+      <data key="d3">-0.9885660711721797</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204420.1" target="Smp_043500.2">
+      <data key="d2">0.9783425529258615</data>
+      <data key="d3">-0.9783425529258615</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204420.1" target="Smp_082410.1">
+      <data key="d2">0.990611465743277</data>
+      <data key="d3">-0.990611465743277</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204420.1" target="Smp_000790.1">
+      <data key="d2">0.986157392550485</data>
+      <data key="d3">-0.986157392550485</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204420.1" target="Smp_340300.2">
+      <data key="d2">0.9927198302694509</data>
+      <data key="d3">-0.9927198302694509</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204420.1" target="Smp_150000.1">
+      <data key="d2">0.9710861990124937</data>
+      <data key="d3">-0.9710861990124937</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_247660.1" target="Smp_319970.1">
+      <data key="d2">0.9867951571291029</data>
+      <data key="d3">-0.9867951571291029</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_247660.1" target="Smp_245600.2">
+      <data key="d2">0.9847082535831672</data>
+      <data key="d3">-0.9847082535831672</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323230.1" target="Smp_196880.2">
+      <data key="d2">0.9715887890093968</data>
+      <data key="d3">-0.9715887890093968</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323230.1" target="Smp_335370.1">
+      <data key="d2">0.9732691713267593</data>
+      <data key="d3">-0.9732691713267593</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323230.1" target="Smp_332600.2">
+      <data key="d2">0.9759440094845053</data>
+      <data key="d3">-0.9759440094845053</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323230.1" target="Smp_170770.2">
+      <data key="d2">0.9708919041293953</data>
+      <data key="d3">-0.9708919041293953</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204370.1" target="Smp_164270.2">
+      <data key="d2">0.9922891867528909</data>
+      <data key="d3">-0.9922891867528909</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204370.1" target="Smp_017470.1">
+      <data key="d2">0.9985202127436934</data>
+      <data key="d3">-0.9985202127436934</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204370.1" target="Smp_349140.1">
+      <data key="d2">0.9750094510931558</data>
+      <data key="d3">-0.9750094510931558</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204370.1" target="Smp_327460.1">
+      <data key="d2">0.9706186686194943</data>
+      <data key="d3">-0.9706186686194943</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204370.1" target="Smp_074390.1">
+      <data key="d2">0.9908394227999986</data>
+      <data key="d3">-0.9908394227999986</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204370.1" target="Smp_328910.1">
+      <data key="d2">0.9993982203459988</data>
+      <data key="d3">-0.9993982203459988</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204370.1" target="Smp_028210.2">
+      <data key="d2">0.9815626077082429</data>
+      <data key="d3">-0.9815626077082429</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348820.2" target="Smp_245600.2">
+      <data key="d2">0.9848470142591171</data>
+      <data key="d3">-0.9848470142591171</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_181730.1" target="Smp_326490.1">
+      <data key="d2">0.9712772440723538</data>
+      <data key="d3">-0.9712772440723538</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331370.1" target="Smp_122790.2">
+      <data key="d2">0.9802383105211459</data>
+      <data key="d3">-0.9802383105211459</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331370.1" target="Smp_317510.1">
+      <data key="d2">0.9803056175360962</data>
+      <data key="d3">-0.9803056175360962</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331370.1" target="Smp_335380.1">
+      <data key="d2">0.9790418589114068</data>
+      <data key="d3">-0.9790418589114068</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331370.1" target="Smp_055870.2">
+      <data key="d2">0.9951439052496158</data>
+      <data key="d3">-0.9951439052496158</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331370.1" target="Smp_203090.1">
+      <data key="d2">0.9934970377805971</data>
+      <data key="d3">-0.9934970377805971</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204040.1" target="Smp_335785.1">
+      <data key="d2">0.9987263339568505</data>
+      <data key="d3">-0.9987263339568505</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_204040.1" target="Smp_193680.1">
+      <data key="d2">0.9946397127351495</data>
+      <data key="d3">-0.9946397127351495</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_134410.1" target="Smp_017710.1">
+      <data key="d2">0.9941968761254572</data>
+      <data key="d3">-0.9941968761254572</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_134410.1" target="Smp_327370.1">
+      <data key="d2">0.9745458598522607</data>
+      <data key="d3">-0.9745458598522607</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_134410.1" target="Smp_060620.1">
+      <data key="d2">0.9940093852926772</data>
+      <data key="d3">-0.9940093852926772</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_134410.1" target="Smp_122790.2">
+      <data key="d2">0.9929429983780439</data>
+      <data key="d3">-0.9929429983780439</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_134410.1" target="Smp_302310.2">
+      <data key="d2">0.9982929192092466</data>
+      <data key="d3">-0.9982929192092466</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_134410.1" target="Smp_347540.2">
+      <data key="d2">0.9815323196388629</data>
+      <data key="d3">-0.9815323196388629</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_084180.1" target="Smp_308755.1">
+      <data key="d2">0.976626475263563</data>
+      <data key="d3">-0.976626475263563</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_084180.1" target="Smp_200710.1">
+      <data key="d2">0.9767235296220423</data>
+      <data key="d3">-0.9767235296220423</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_084180.1" target="Smp_317180.1">
+      <data key="d2">0.9803248933270654</data>
+      <data key="d3">-0.9803248933270654</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_084180.1" target="Smp_319120.2">
+      <data key="d2">0.9729980847180901</data>
+      <data key="d3">-0.9729980847180901</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_084180.1" target="Smp_133590.2">
+      <data key="d2">0.9956320132315932</data>
+      <data key="d3">-0.9956320132315932</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_084180.1" target="Smp_340840.1">
+      <data key="d2">0.9792396150059003</data>
+      <data key="d3">-0.9792396150059003</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_084180.1" target="Smp_071590.1">
+      <data key="d2">0.9705935395867428</data>
+      <data key="d3">-0.9705935395867428</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_084180.1" target="Smp_173380.1">
+      <data key="d2">0.9745406417566096</data>
+      <data key="d3">-0.9745406417566096</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_308755.1" target="Smp_316910.1">
+      <data key="d2">0.995453078152535</data>
+      <data key="d3">-0.995453078152535</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_308755.1" target="Smp_140260.1">
+      <data key="d2">0.9874550746928505</data>
+      <data key="d3">-0.9874550746928505</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_010550.2" target="Smp_303350.1">
+      <data key="d2">0.9724331725340417</data>
+      <data key="d3">-0.9724331725340417</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_010550.2" target="Smp_173320.2">
+      <data key="d2">0.9867578343774065</data>
+      <data key="d3">-0.9867578343774065</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_010550.2" target="Smp_331440.1">
+      <data key="d2">0.9841929602327198</data>
+      <data key="d3">-0.9841929602327198</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_010550.2" target="Smp_054620.3">
+      <data key="d2">0.9790525090939778</data>
+      <data key="d3">-0.9790525090939778</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_010550.2" target="Smp_058140.3">
+      <data key="d2">0.9850693197708009</data>
+      <data key="d3">-0.9850693197708009</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_182600.1" target="Smp_133590.1">
+      <data key="d2">0.9785974768583106</data>
+      <data key="d3">-0.9785974768583106</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_182600.1" target="Smp_335785.1">
+      <data key="d2">0.9925141731276438</data>
+      <data key="d3">-0.9925141731276438</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_182600.1" target="Smp_193680.1">
+      <data key="d2">0.9804066782401157</data>
+      <data key="d3">-0.9804066782401157</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_182600.1" target="Smp_341710.1">
+      <data key="d2">0.9856989267983737</data>
+      <data key="d3">-0.9856989267983737</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200710.1" target="Smp_316910.1">
+      <data key="d2">0.9955520034452066</data>
+      <data key="d3">-0.9955520034452066</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200710.1" target="Smp_140260.1">
+      <data key="d2">0.9875532051667101</data>
+      <data key="d3">-0.9875532051667101</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326650.1" target="Smp_307630.1">
+      <data key="d2">0.9917129511700732</data>
+      <data key="d3">-0.9917129511700732</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326650.1" target="Smp_022320.2">
+      <data key="d2">0.9890091316730545</data>
+      <data key="d3">-0.9890091316730545</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326650.1" target="Smp_314280.1">
+      <data key="d2">0.9787515012949013</data>
+      <data key="d3">-0.9787515012949013</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322700.1" target="Smp_017710.1">
+      <data key="d2">0.9825127796603885</data>
+      <data key="d3">-0.9825127796603885</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322700.1" target="Smp_122790.2">
+      <data key="d2">0.9803883672326419</data>
+      <data key="d3">-0.9803883672326419</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322700.1" target="Smp_335380.1">
+      <data key="d2">0.9875322526913909</data>
+      <data key="d3">-0.9875322526913909</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322700.1" target="Smp_302310.2">
+      <data key="d2">0.9891907171049559</data>
+      <data key="d3">-0.9891907171049559</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322700.1" target="Smp_347540.2">
+      <data key="d2">0.9838309513795934</data>
+      <data key="d3">-0.9838309513795934</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322700.2" target="Smp_141010.2">
+      <data key="d2">0.9759006722997096</data>
+      <data key="d3">-0.9759006722997096</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322700.2" target="Smp_328620.2">
+      <data key="d2">0.9765309272944487</data>
+      <data key="d3">-0.9765309272944487</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322700.2" target="Smp_058140.1">
+      <data key="d2">0.9994849480478802</data>
+      <data key="d3">-0.9994849480478802</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340300.1" target="Smp_326770.2">
+      <data key="d2">0.9712792033932731</data>
+      <data key="d3">-0.9712792033932731</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340300.1" target="Smp_017710.1">
+      <data key="d2">0.9767718807516771</data>
+      <data key="d3">-0.9767718807516771</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340300.1" target="Smp_327370.1">
+      <data key="d2">0.9891612313501122</data>
+      <data key="d3">-0.9891612313501122</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340300.1" target="Smp_060620.1">
+      <data key="d2">0.9974703094107991</data>
+      <data key="d3">-0.9974703094107991</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340300.1" target="Smp_122790.2">
+      <data key="d2">0.9945802946543185</data>
+      <data key="d3">-0.9945802946543185</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340300.1" target="Smp_032670.1">
+      <data key="d2">0.97695758046216</data>
+      <data key="d3">-0.97695758046216</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340300.1" target="Smp_302310.2">
+      <data key="d2">0.9833751587843578</data>
+      <data key="d3">-0.9833751587843578</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302870.1" target="Smp_326770.2">
+      <data key="d2">0.9742287535557642</data>
+      <data key="d3">-0.9742287535557642</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302870.1" target="Smp_017710.1">
+      <data key="d2">0.974169136884995</data>
+      <data key="d3">-0.974169136884995</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302870.1" target="Smp_327370.1">
+      <data key="d2">0.9897371223700938</data>
+      <data key="d3">-0.9897371223700938</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302870.1" target="Smp_060620.1">
+      <data key="d2">0.9969086139943807</data>
+      <data key="d3">-0.9969086139943807</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302870.1" target="Smp_122790.2">
+      <data key="d2">0.9937924140129291</data>
+      <data key="d3">-0.9937924140129291</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302870.1" target="Smp_032670.1">
+      <data key="d2">0.9789050955909578</data>
+      <data key="d3">-0.9789050955909578</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302870.1" target="Smp_302310.2">
+      <data key="d2">0.9809979018143286</data>
+      <data key="d3">-0.9809979018143286</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200770.1" target="Smp_196880.2">
+      <data key="d2">0.9927478127254122</data>
+      <data key="d3">-0.9927478127254122</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200770.1" target="Smp_335370.1">
+      <data key="d2">0.9825138761345749</data>
+      <data key="d3">-0.9825138761345749</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200770.1" target="Smp_170770.2">
+      <data key="d2">0.992035751256436</data>
+      <data key="d3">-0.992035751256436</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200770.1" target="Smp_211020.1">
+      <data key="d2">0.9761917082935235</data>
+      <data key="d3">-0.9761917082935235</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323360.1" target="Smp_017710.1">
+      <data key="d2">0.9877034133305834</data>
+      <data key="d3">-0.9877034133305834</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323360.1" target="Smp_318100.1">
+      <data key="d2">0.9849936125782551</data>
+      <data key="d3">-0.9849936125782551</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323360.1" target="Smp_302310.2">
+      <data key="d2">0.9775958811527434</data>
+      <data key="d3">-0.9775958811527434</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323360.1" target="Smp_347540.2">
+      <data key="d2">0.9870669003026651</data>
+      <data key="d3">-0.9870669003026651</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323360.1" target="Smp_328360.1">
+      <data key="d2">0.9811657559013779</data>
+      <data key="d3">-0.9811657559013779</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323360.1" target="Smp_150000.1">
+      <data key="d2">0.9877653312469645</data>
+      <data key="d3">-0.9877653312469645</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_152630.1" target="Smp_017710.1">
+      <data key="d2">0.9911170143969629</data>
+      <data key="d3">-0.9911170143969629</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_152630.1" target="Smp_060620.1">
+      <data key="d2">0.9824424329477489</data>
+      <data key="d3">-0.9824424329477489</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_152630.1" target="Smp_122790.2">
+      <data key="d2">0.9897415786225224</data>
+      <data key="d3">-0.9897415786225224</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_152630.1" target="Smp_335380.1">
+      <data key="d2">0.973930355940421</data>
+      <data key="d3">-0.973930355940421</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_152630.1" target="Smp_302310.2">
+      <data key="d2">0.996609501448381</data>
+      <data key="d3">-0.996609501448381</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_152630.1" target="Smp_347540.2">
+      <data key="d2">0.9854182231457149</data>
+      <data key="d3">-0.9854182231457149</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_330170.1" target="Smp_326770.2">
+      <data key="d2">0.9929993454852009</data>
+      <data key="d3">-0.9929993454852009</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_330170.1" target="Smp_327370.1">
+      <data key="d2">0.9949312179105122</data>
+      <data key="d3">-0.9949312179105122</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_330170.1" target="Smp_060620.1">
+      <data key="d2">0.9873234006444027</data>
+      <data key="d3">-0.9873234006444027</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_330170.1" target="Smp_122790.2">
+      <data key="d2">0.972469691008271</data>
+      <data key="d3">-0.972469691008271</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_330170.1" target="Smp_032670.1">
+      <data key="d2">0.9962292310755959</data>
+      <data key="d3">-0.9962292310755959</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340430.1" target="Smp_017710.1">
+      <data key="d2">0.9937644412930312</data>
+      <data key="d3">-0.9937644412930312</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340430.1" target="Smp_302310.2">
+      <data key="d2">0.9920593273094478</data>
+      <data key="d3">-0.9920593273094478</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340430.1" target="Smp_347540.2">
+      <data key="d2">0.9995990380846277</data>
+      <data key="d3">-0.9995990380846277</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_047870.1" target="Smp_017710.1">
+      <data key="d2">0.9935216441585268</data>
+      <data key="d3">-0.9935216441585268</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_047870.1" target="Smp_060620.1">
+      <data key="d2">0.9816402173609856</data>
+      <data key="d3">-0.9816402173609856</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_047870.1" target="Smp_122790.2">
+      <data key="d2">0.9862688202107078</data>
+      <data key="d3">-0.9862688202107078</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_047870.1" target="Smp_335380.1">
+      <data key="d2">0.9720683308322571</data>
+      <data key="d3">-0.9720683308322571</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_047870.1" target="Smp_302310.2">
+      <data key="d2">0.9976756098516264</data>
+      <data key="d3">-0.9976756098516264</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_047870.1" target="Smp_347540.2">
+      <data key="d2">0.9895054073912668</data>
+      <data key="d3">-0.9895054073912668</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_156910.2" target="Smp_017710.1">
+      <data key="d2">0.9793212576901884</data>
+      <data key="d3">-0.9793212576901884</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_156910.2" target="Smp_318100.1">
+      <data key="d2">0.9976845804633317</data>
+      <data key="d3">-0.9976845804633317</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_156910.2" target="Smp_327370.1">
+      <data key="d2">0.9876291368747475</data>
+      <data key="d3">-0.9876291368747475</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_156910.2" target="Smp_060620.1">
+      <data key="d2">0.9826360424033114</data>
+      <data key="d3">-0.9826360424033114</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_156910.2" target="Smp_019690.2">
+      <data key="d2">0.9779268411389797</data>
+      <data key="d3">-0.9779268411389797</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_156910.2" target="Smp_032670.1">
+      <data key="d2">0.9705799896157431</data>
+      <data key="d3">-0.9705799896157431</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_156910.2" target="Smp_043500.2">
+      <data key="d2">0.9715508774827701</data>
+      <data key="d3">-0.9715508774827701</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_156910.2" target="Smp_082410.1">
+      <data key="d2">0.9850731595300474</data>
+      <data key="d3">-0.9850731595300474</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_156910.2" target="Smp_302310.2">
+      <data key="d2">0.9720161881374331</data>
+      <data key="d3">-0.9720161881374331</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_156910.2" target="Smp_328360.1">
+      <data key="d2">0.9862790283633364</data>
+      <data key="d3">-0.9862790283633364</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_156910.2" target="Smp_150000.1">
+      <data key="d2">0.9968697295369653</data>
+      <data key="d3">-0.9968697295369653</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327820.1" target="Smp_175880.1">
+      <data key="d2">0.9988690139795929</data>
+      <data key="d3">-0.9988690139795929</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327820.1" target="Smp_046060.1">
+      <data key="d2">0.9848667979385014</data>
+      <data key="d3">-0.9848667979385014</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_205710.1" target="Smp_017710.1">
+      <data key="d2">0.9964960789594076</data>
+      <data key="d3">-0.9964960789594076</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_205710.1" target="Smp_318100.1">
+      <data key="d2">0.9837285218708237</data>
+      <data key="d3">-0.9837285218708237</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_205710.1" target="Smp_060620.1">
+      <data key="d2">0.9789857230023834</data>
+      <data key="d3">-0.9789857230023834</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_205710.1" target="Smp_302310.2">
+      <data key="d2">0.9904430327032485</data>
+      <data key="d3">-0.9904430327032485</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_205710.1" target="Smp_347540.2">
+      <data key="d2">0.9916772261283266</data>
+      <data key="d3">-0.9916772261283266</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_205710.1" target="Smp_328360.1">
+      <data key="d2">0.972450889189771</data>
+      <data key="d3">-0.972450889189771</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_205710.1" target="Smp_150000.1">
+      <data key="d2">0.9855912839824763</data>
+      <data key="d3">-0.9855912839824763</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_317180.1" target="Smp_316910.1">
+      <data key="d2">0.9992227912812056</data>
+      <data key="d3">-0.9992227912812056</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_317180.1" target="Smp_140260.1">
+      <data key="d2">0.991194499926183</data>
+      <data key="d3">-0.991194499926183</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_341160.2" target="Smp_331440.1">
+      <data key="d2">0.9755960581790304</data>
+      <data key="d3">-0.9755960581790304</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_341160.2" target="Smp_332600.2">
+      <data key="d2">0.9766244261405568</data>
+      <data key="d3">-0.9766244261405568</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_330270.1" target="Smp_335785.1">
+      <data key="d2">0.995731362027166</data>
+      <data key="d3">-0.995731362027166</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_330270.1" target="Smp_193680.1">
+      <data key="d2">0.9939232978825604</data>
+      <data key="d3">-0.9939232978825604</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_247580.1" target="Smp_063530.1">
+      <data key="d2">0.9876080318805867</data>
+      <data key="d3">-0.9876080318805867</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_247580.1" target="Smp_133590.1">
+      <data key="d2">0.9781766043356934</data>
+      <data key="d3">-0.9781766043356934</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_247580.1" target="Smp_347490.1">
+      <data key="d2">0.9830325515990649</data>
+      <data key="d3">-0.9830325515990649</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_247580.1" target="Smp_193680.1">
+      <data key="d2">0.9780908212152619</data>
+      <data key="d3">-0.9780908212152619</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_247580.1" target="Smp_169220.1">
+      <data key="d2">0.9753209546681636</data>
+      <data key="d3">-0.9753209546681636</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_085540.2" target="Smp_326770.2">
+      <data key="d2">0.9898197243170114</data>
+      <data key="d3">-0.9898197243170114</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_303350.1" target="Smp_023940.1">
+      <data key="d2">0.9850231546175393</data>
+      <data key="d3">-0.9850231546175393</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_303350.1" target="Smp_322930.1">
+      <data key="d2">0.9834413475499735</data>
+      <data key="d3">-0.9834413475499735</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_303350.1" target="Smp_310980.1">
+      <data key="d2">0.9816532969652134</data>
+      <data key="d3">-0.9816532969652134</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_303350.1" target="Smp_192010.1">
+      <data key="d2">0.9864646243266388</data>
+      <data key="d3">-0.9864646243266388</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_303350.1" target="Smp_058140.1">
+      <data key="d2">0.971186099111994</data>
+      <data key="d3">-0.971186099111994</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_303350.1" target="Smp_020450.1">
+      <data key="d2">0.9910573893676735</data>
+      <data key="d3">-0.9910573893676735</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_020450.2" target="Smp_023940.1">
+      <data key="d2">0.9868125905589178</data>
+      <data key="d3">-0.9868125905589178</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_020450.2" target="Smp_155320.1">
+      <data key="d2">0.9840549415528584</data>
+      <data key="d3">-0.9840549415528584</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_020450.2" target="Smp_310980.1">
+      <data key="d2">0.9919908882895838</data>
+      <data key="d3">-0.9919908882895838</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_020450.2" target="Smp_141010.2">
+      <data key="d2">0.9726326875270104</data>
+      <data key="d3">-0.9726326875270104</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_020450.2" target="Smp_328620.2">
+      <data key="d2">0.9826809279292403</data>
+      <data key="d3">-0.9826809279292403</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326770.2" target="Smp_017470.2">
+      <data key="d2">0.9837332009264724</data>
+      <data key="d3">-0.9837332009264724</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326770.2" target="Smp_005190.3">
+      <data key="d2">0.9716523933212299</data>
+      <data key="d3">-0.9716523933212299</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326770.2" target="Smp_131680.2">
+      <data key="d2">0.9794406736295087</data>
+      <data key="d3">-0.9794406736295087</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326770.2" target="Smp_000790.2">
+      <data key="d2">0.9853994198558428</data>
+      <data key="d3">-0.9853994198558428</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326770.2" target="Smp_244890.1">
+      <data key="d2">0.999458121247915</data>
+      <data key="d3">-0.999458121247915</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326770.2" target="Smp_130520.4">
+      <data key="d2">0.9742142561683156</data>
+      <data key="d3">-0.9742142561683156</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326770.2" target="Smp_304890.2">
+      <data key="d2">0.985759656096757</data>
+      <data key="d3">-0.985759656096757</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326770.2" target="Smp_336340.1">
+      <data key="d2">0.9846459645160407</data>
+      <data key="d3">-0.9846459645160407</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_173320.2" target="Smp_051000.1">
+      <data key="d2">0.9723963932930211</data>
+      <data key="d3">-0.9723963932930211</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_173320.2" target="Smp_170910.1">
+      <data key="d2">0.9781746048719884</data>
+      <data key="d3">-0.9781746048719884</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_173320.2" target="Smp_322930.1">
+      <data key="d2">0.9975533127744375</data>
+      <data key="d3">-0.9975533127744375</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_173320.2" target="Smp_192010.1">
+      <data key="d2">0.9852457555318612</data>
+      <data key="d3">-0.9852457555318612</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_173320.2" target="Smp_201340.1">
+      <data key="d2">0.970202898809414</data>
+      <data key="d3">-0.970202898809414</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_173320.2" target="Smp_040710.2">
+      <data key="d2">0.9723930992395606</data>
+      <data key="d3">-0.9723930992395606</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_173320.2" target="Smp_020450.1">
+      <data key="d2">0.9993725762521507</data>
+      <data key="d3">-0.9993725762521507</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_173320.2" target="Smp_058050.1">
+      <data key="d2">0.9807402622147324</data>
+      <data key="d3">-0.9807402622147324</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_173320.2" target="Smp_141290.1">
+      <data key="d2">0.9728875452535032</data>
+      <data key="d3">-0.9728875452535032</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.3" target="Smp_164270.2">
+      <data key="d2">0.9858522908290878</data>
+      <data key="d3">-0.9858522908290878</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.3" target="Smp_017470.1">
+      <data key="d2">0.9953765548148158</data>
+      <data key="d3">-0.9953765548148158</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.3" target="Smp_349140.1">
+      <data key="d2">0.9840663937059928</data>
+      <data key="d3">-0.9840663937059928</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.3" target="Smp_074390.1">
+      <data key="d2">0.9916627489265928</data>
+      <data key="d3">-0.9916627489265928</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.3" target="Smp_328910.1">
+      <data key="d2">0.9985144352348477</data>
+      <data key="d3">-0.9985144352348477</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.3" target="Smp_028210.2">
+      <data key="d2">0.9829458252046342</data>
+      <data key="d3">-0.9829458252046342</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_212190.2" target="Smp_047870.2">
+      <data key="d2">0.9715123851355787</data>
+      <data key="d3">-0.9715123851355787</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_212190.2" target="Smp_179970.1">
+      <data key="d2">0.990550830909192</data>
+      <data key="d3">-0.990550830909192</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_305620.1" target="Smp_155320.1">
+      <data key="d2">0.9928488221794044</data>
+      <data key="d3">-0.9928488221794044</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_319450.1" target="Smp_017710.1">
+      <data key="d2">0.9740117873791246</data>
+      <data key="d3">-0.9740117873791246</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_319450.1" target="Smp_347540.2">
+      <data key="d2">0.9897060252963978</data>
+      <data key="d3">-0.9897060252963978</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348840.2" target="Smp_017710.1">
+      <data key="d2">0.9845710614396571</data>
+      <data key="d3">-0.9845710614396571</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348840.2" target="Smp_335380.1">
+      <data key="d2">0.9762900452986465</data>
+      <data key="d3">-0.9762900452986465</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348840.2" target="Smp_302310.2">
+      <data key="d2">0.985683351178498</data>
+      <data key="d3">-0.985683351178498</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348840.2" target="Smp_347540.2">
+      <data key="d2">0.9948242458258252</data>
+      <data key="d3">-0.9948242458258252</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_319120.2" target="Smp_213510.1">
+      <data key="d2">0.981303065950428</data>
+      <data key="d3">-0.981303065950428</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_319120.2" target="Smp_316910.1">
+      <data key="d2">0.9917547424748584</data>
+      <data key="d3">-0.9917547424748584</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_319120.2" target="Smp_140260.1">
+      <data key="d2">0.9837864534258219</data>
+      <data key="d3">-0.9837864534258219</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246790.1" target="Smp_017710.1">
+      <data key="d2">0.9943008188874007</data>
+      <data key="d3">-0.9943008188874007</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246790.1" target="Smp_060620.1">
+      <data key="d2">0.9828072333787958</data>
+      <data key="d3">-0.9828072333787958</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246790.1" target="Smp_122790.2">
+      <data key="d2">0.9863592876461025</data>
+      <data key="d3">-0.9863592876461025</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246790.1" target="Smp_335380.1">
+      <data key="d2">0.9702351086290855</data>
+      <data key="d3">-0.9702351086290855</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246790.1" target="Smp_302310.2">
+      <data key="d2">0.9981697543428102</data>
+      <data key="d3">-0.9981697543428102</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246790.1" target="Smp_347540.2">
+      <data key="d2">0.9898505124184711</data>
+      <data key="d3">-0.9898505124184711</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_316860.1" target="Smp_319970.1">
+      <data key="d2">0.9896308702039902</data>
+      <data key="d3">-0.9896308702039902</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_316860.1" target="Smp_318260.2">
+      <data key="d2">0.9707053741911287</data>
+      <data key="d3">-0.9707053741911287</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_316860.1" target="Smp_245600.2">
+      <data key="d2">0.983554731927443</data>
+      <data key="d3">-0.983554731927443</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_051000.1" target="Smp_331440.1">
+      <data key="d2">0.9856602988355712</data>
+      <data key="d3">-0.9856602988355712</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_051000.1" target="Smp_332600.2">
+      <data key="d2">0.9705016875583579</data>
+      <data key="d3">-0.9705016875583579</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_051000.1" target="Smp_054620.3">
+      <data key="d2">0.9715339964832405</data>
+      <data key="d3">-0.9715339964832405</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348790.2" target="Smp_318100.1">
+      <data key="d2">0.9774192158065464</data>
+      <data key="d3">-0.9774192158065464</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348790.2" target="Smp_063530.1">
+      <data key="d2">0.9894534307819781</data>
+      <data key="d3">-0.9894534307819781</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348790.2" target="Smp_347490.1">
+      <data key="d2">0.9948061124185761</data>
+      <data key="d3">-0.9948061124185761</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348790.2" target="Smp_019690.2">
+      <data key="d2">0.9981908454974179</data>
+      <data key="d3">-0.9981908454974179</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348790.2" target="Smp_043500.2">
+      <data key="d2">0.9994641982769862</data>
+      <data key="d3">-0.9994641982769862</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348790.2" target="Smp_082410.1">
+      <data key="d2">0.9964100495497883</data>
+      <data key="d3">-0.9964100495497883</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348790.2" target="Smp_000790.1">
+      <data key="d2">0.9877829441672431</data>
+      <data key="d3">-0.9877829441672431</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348790.2" target="Smp_340300.2">
+      <data key="d2">0.9878877515959635</data>
+      <data key="d3">-0.9878877515959635</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348790.2" target="Smp_328360.1">
+      <data key="d2">0.9813760268468245</data>
+      <data key="d3">-0.9813760268468245</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348790.2" target="Smp_150000.1">
+      <data key="d2">0.9749799239885489</data>
+      <data key="d3">-0.9749799239885489</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_307630.1" target="Smp_055090.3">
+      <data key="d2">0.9828240541958033</data>
+      <data key="d3">-0.9828240541958033</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_307630.1" target="Smp_088420.1">
+      <data key="d2">0.9704177775676972</data>
+      <data key="d3">-0.9704177775676972</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_307630.1" target="Smp_146150.1">
+      <data key="d2">0.9798929002424238</data>
+      <data key="d3">-0.9798929002424238</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_307630.1" target="Smp_046060.2">
+      <data key="d2">0.9771978750071102</data>
+      <data key="d3">-0.9771978750071102</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_023940.1" target="Smp_323280.1">
+      <data key="d2">0.9998191101869118</data>
+      <data key="d3">-0.9998191101869118</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_023940.1" target="Smp_023940.2">
+      <data key="d2">0.9822783402329581</data>
+      <data key="d3">-0.9822783402329581</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_023940.1" target="Smp_051000.2">
+      <data key="d2">0.9826339157732261</data>
+      <data key="d3">-0.9826339157732261</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_023940.1" target="Smp_152290.1">
+      <data key="d2">0.9731925252933794</data>
+      <data key="d3">-0.9731925252933794</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_023940.1" target="Smp_058140.3">
+      <data key="d2">0.9749462912707857</data>
+      <data key="d3">-0.9749462912707857</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017470.2" target="Smp_318100.1">
+      <data key="d2">0.9709621097243859</data>
+      <data key="d3">-0.9709621097243859</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017470.2" target="Smp_327370.1">
+      <data key="d2">0.9985602256139882</data>
+      <data key="d3">-0.9985602256139882</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017470.2" target="Smp_060620.1">
+      <data key="d2">0.985748378532677</data>
+      <data key="d3">-0.985748378532677</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017470.2" target="Smp_032670.1">
+      <data key="d2">0.9982947432945204</data>
+      <data key="d3">-0.9982947432945204</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017470.2" target="Smp_082410.1">
+      <data key="d2">0.9711118346129997</data>
+      <data key="d3">-0.9711118346129997</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.2" target="Smp_022320.2">
+      <data key="d2">0.9706712464552844</data>
+      <data key="d3">-0.9706712464552844</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.2" target="Smp_316910.1">
+      <data key="d2">0.988918617088364</data>
+      <data key="d3">-0.988918617088364</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.2" target="Smp_314280.1">
+      <data key="d2">0.9744467122472241</data>
+      <data key="d3">-0.9744467122472241</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323280.1" target="Smp_310980.1">
+      <data key="d2">0.9989546783164719</data>
+      <data key="d3">-0.9989546783164719</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323280.1" target="Smp_192010.1">
+      <data key="d2">0.9926776701676926</data>
+      <data key="d3">-0.9926776701676926</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_196880.1" target="Smp_196880.2">
+      <data key="d2">0.9848809896247185</data>
+      <data key="d3">-0.9848809896247185</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_196880.1" target="Smp_335370.1">
+      <data key="d2">0.9982501398967316</data>
+      <data key="d3">-0.9982501398967316</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_196880.1" target="Smp_170770.2">
+      <data key="d2">0.9873128711433756</data>
+      <data key="d3">-0.9873128711433756</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_196880.1" target="Smp_211020.1">
+      <data key="d2">0.998928999480036</data>
+      <data key="d3">-0.998928999480036</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_196880.1" target="Smp_205300.2">
+      <data key="d2">0.9964720413443652</data>
+      <data key="d3">-0.9964720413443652</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323250.1" target="Smp_346380.2">
+      <data key="d2">0.9993886783226404</data>
+      <data key="d3">-0.9993886783226404</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323250.1" target="Smp_051670.1">
+      <data key="d2">0.9980695986712947</data>
+      <data key="d3">-0.9980695986712947</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_213510.1" target="Smp_335135.1">
+      <data key="d2">0.997554380036953</data>
+      <data key="d3">-0.997554380036953</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_213510.1" target="Smp_323320.1">
+      <data key="d2">0.983569354673052</data>
+      <data key="d3">-0.983569354673052</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_213510.1" target="Smp_323270.1">
+      <data key="d2">0.9912752542427538</data>
+      <data key="d3">-0.9912752542427538</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_213510.1" target="Smp_323440.1">
+      <data key="d2">0.9778208523384555</data>
+      <data key="d3">-0.9778208523384555</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_213510.1" target="Smp_319290.1">
+      <data key="d2">0.9910474891118743</data>
+      <data key="d3">-0.9910474891118743</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_213510.1" target="Smp_335130.1">
+      <data key="d2">0.9875513226854755</data>
+      <data key="d3">-0.9875513226854755</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_213510.1" target="Smp_348910.1">
+      <data key="d2">0.9935995848579094</data>
+      <data key="d3">-0.9935995848579094</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_213510.1" target="Smp_323270.2">
+      <data key="d2">0.9781525860050339</data>
+      <data key="d3">-0.9781525860050339</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_213510.1" target="Smp_244440.1">
+      <data key="d2">0.9809514419329429</data>
+      <data key="d3">-0.9809514419329429</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_196880.2" target="Smp_130520.3">
+      <data key="d2">0.9989136091843456</data>
+      <data key="d3">-0.9989136091843456</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_196880.2" target="Smp_163600.1">
+      <data key="d2">0.9842360373301402</data>
+      <data key="d3">-0.9842360373301402</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_196880.2" target="Smp_318200.2">
+      <data key="d2">0.9941101378428104</data>
+      <data key="d3">-0.9941101378428104</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_196880.2" target="Smp_344420.1">
+      <data key="d2">0.9815412584861893</data>
+      <data key="d3">-0.9815412584861893</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_196880.2" target="Smp_061250.2">
+      <data key="d2">0.9862982352497909</data>
+      <data key="d3">-0.9862982352497909</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_023940.2" target="Smp_155320.1">
+      <data key="d2">0.9925284861184034</data>
+      <data key="d3">-0.9925284861184034</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_023940.2" target="Smp_310980.1">
+      <data key="d2">0.9884862391097954</data>
+      <data key="d3">-0.9884862391097954</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_023940.2" target="Smp_328620.2">
+      <data key="d2">0.9771197930244163</data>
+      <data key="d3">-0.9771197930244163</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_047870.2" target="Smp_019840.1">
+      <data key="d2">0.9822280327181474</data>
+      <data key="d3">-0.9822280327181474</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_047870.2" target="Smp_131390.1">
+      <data key="d2">0.9902041845575607</data>
+      <data key="d3">-0.9902041845575607</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_047870.2" target="Smp_170770.1">
+      <data key="d2">0.9917294943108762</data>
+      <data key="d3">-0.9917294943108762</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335135.1" target="Smp_175880.1">
+      <data key="d2">0.9772083720283237</data>
+      <data key="d3">-0.9772083720283237</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323320.1" target="Smp_175880.1">
+      <data key="d2">0.9875269682167563</data>
+      <data key="d3">-0.9875269682167563</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323270.1" target="Smp_175880.1">
+      <data key="d2">0.9948516326854631</data>
+      <data key="d3">-0.9948516326854631</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323440.1" target="Smp_175880.1">
+      <data key="d2">0.9832567158718806</data>
+      <data key="d3">-0.9832567158718806</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_319290.1" target="Smp_175880.1">
+      <data key="d2">0.9951191996729009</data>
+      <data key="d3">-0.9951191996729009</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_164270.2" target="Smp_266830.2">
+      <data key="d2">0.9875428841820546</data>
+      <data key="d3">-0.9875428841820546</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_164270.2" target="Smp_181080.1">
+      <data key="d2">0.9800150750959977</data>
+      <data key="d3">-0.9800150750959977</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_164270.2" target="Smp_246970.2">
+      <data key="d2">0.9887482500550849</data>
+      <data key="d3">-0.9887482500550849</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_164270.2" target="Smp_152580.1">
+      <data key="d2">0.9867255900329629</data>
+      <data key="d3">-0.9867255900329629</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_022320.3" target="Smp_017710.1">
+      <data key="d2">0.9990147632146746</data>
+      <data key="d3">-0.9990147632146746</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_022320.3" target="Smp_327370.1">
+      <data key="d2">0.9716388987049265</data>
+      <data key="d3">-0.9716388987049265</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_022320.3" target="Smp_060620.1">
+      <data key="d2">0.9909201726982722</data>
+      <data key="d3">-0.9909201726982722</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_022320.3" target="Smp_122790.2">
+      <data key="d2">0.9834151243981416</data>
+      <data key="d3">-0.9834151243981416</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_022320.3" target="Smp_302310.2">
+      <data key="d2">0.9998525774762592</data>
+      <data key="d3">-0.9998525774762592</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_022320.3" target="Smp_347540.2">
+      <data key="d2">0.9905356298546774</data>
+      <data key="d3">-0.9905356298546774</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_343170.2" target="Smp_348240.1">
+      <data key="d2">0.9911751866094285</data>
+      <data key="d3">-0.9911751866094285</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_343170.2" target="Smp_335670.1">
+      <data key="d2">0.9753853928939222</data>
+      <data key="d3">-0.9753853928939222</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348910.1" target="Smp_316910.1">
+      <data key="d2">0.9787350663091937</data>
+      <data key="d3">-0.9787350663091937</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_348910.1" target="Smp_140260.1">
+      <data key="d2">0.9708713843152788</data>
+      <data key="d3">-0.9708713843152788</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_175880.1" target="Smp_323270.2">
+      <data key="d2">0.992484309996981</data>
+      <data key="d3">-0.992484309996981</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_175880.1" target="Smp_326490.1">
+      <data key="d2">0.9805466451941092</data>
+      <data key="d3">-0.9805466451941092</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_175880.1" target="Smp_334920.1">
+      <data key="d2">0.9878954689021929</data>
+      <data key="d3">-0.9878954689021929</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332780.1" target="Smp_312620.1">
+      <data key="d2">0.9814987056423917</data>
+      <data key="d3">-0.9814987056423917</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332780.1" target="Smp_335380.1">
+      <data key="d2">0.9997304351622249</data>
+      <data key="d3">-0.9997304351622249</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332780.1" target="Smp_323420.1">
+      <data key="d2">0.9899362669444424</data>
+      <data key="d3">-0.9899362669444424</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332780.1" target="Smp_055870.2">
+      <data key="d2">0.981355652851714</data>
+      <data key="d3">-0.981355652851714</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_320200.1" target="Smp_155320.1">
+      <data key="d2">0.9787197366090993</data>
+      <data key="d3">-0.9787197366090993</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_320200.1" target="Smp_310980.1">
+      <data key="d2">0.9738307467037749</data>
+      <data key="d3">-0.9738307467037749</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_320200.1" target="Smp_141010.2">
+      <data key="d2">0.9921314799005287</data>
+      <data key="d3">-0.9921314799005287</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_320200.1" target="Smp_328620.2">
+      <data key="d2">0.9970578648597901</data>
+      <data key="d3">-0.9970578648597901</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_320200.1" target="Smp_058140.1">
+      <data key="d2">0.978702672612774</data>
+      <data key="d3">-0.978702672612774</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_085830.1" target="Smp_346380.2">
+      <data key="d2">0.991124873002181</data>
+      <data key="d3">-0.991124873002181</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_085830.1" target="Smp_051670.1">
+      <data key="d2">0.9960169224320867</data>
+      <data key="d3">-0.9960169224320867</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200130.1" target="Smp_167840.1">
+      <data key="d2">0.9885939893251249</data>
+      <data key="d3">-0.9885939893251249</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200130.1" target="Smp_332840.1">
+      <data key="d2">0.9754278360349684</data>
+      <data key="d3">-0.9754278360349684</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200130.1" target="Smp_201530.1">
+      <data key="d2">0.9870988906016812</data>
+      <data key="d3">-0.9870988906016812</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200130.1" target="Smp_140200.2">
+      <data key="d2">0.9747897990331957</data>
+      <data key="d3">-0.9747897990331957</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_170910.1" target="Smp_331440.1">
+      <data key="d2">0.9868825068543392</data>
+      <data key="d3">-0.9868825068543392</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_170910.1" target="Smp_054620.3">
+      <data key="d2">0.9753315855344259</data>
+      <data key="d3">-0.9753315855344259</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_170910.1" target="Smp_058140.3">
+      <data key="d2">0.9735005233030553</data>
+      <data key="d3">-0.9735005233030553</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_345290.1" target="Smp_312620.1">
+      <data key="d2">0.9885729941506167</data>
+      <data key="d3">-0.9885729941506167</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_345290.1" target="Smp_335380.1">
+      <data key="d2">0.9878126000717471</data>
+      <data key="d3">-0.9878126000717471</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_345290.1" target="Smp_323420.1">
+      <data key="d2">0.9757880399212846</data>
+      <data key="d3">-0.9757880399212846</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_345290.1" target="Smp_322980.1">
+      <data key="d2">0.9756538872587361</data>
+      <data key="d3">-0.9756538872587361</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_345290.1" target="Smp_347540.2">
+      <data key="d2">0.9800694789341755</data>
+      <data key="d3">-0.9800694789341755</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_319970.1" target="Smp_304890.1">
+      <data key="d2">0.9995513982730231</data>
+      <data key="d3">-0.9995513982730231</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_319970.1" target="Smp_171140.1">
+      <data key="d2">0.987924312205456</data>
+      <data key="d3">-0.987924312205456</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_319970.1" target="Smp_007630.2">
+      <data key="d2">0.9808865864330237</data>
+      <data key="d3">-0.9808865864330237</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_319970.1" target="Smp_337670.1">
+      <data key="d2">0.98744889077649</data>
+      <data key="d3">-0.98744889077649</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_051000.2" target="Smp_155320.1">
+      <data key="d2">0.9848003227748258</data>
+      <data key="d3">-0.9848003227748258</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_051000.2" target="Smp_310980.1">
+      <data key="d2">0.9885969100723279</data>
+      <data key="d3">-0.9885969100723279</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_051000.2" target="Smp_141010.2">
+      <data key="d2">0.9779492933047792</data>
+      <data key="d3">-0.9779492933047792</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_051000.2" target="Smp_328620.2">
+      <data key="d2">0.9869188938625955</data>
+      <data key="d3">-0.9869188938625955</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_167840.1" target="Smp_179970.1">
+      <data key="d2">0.9712188773638857</data>
+      <data key="d3">-0.9712188773638857</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_097940.1" target="Smp_155320.1">
+      <data key="d2">0.9978712525845083</data>
+      <data key="d3">-0.9978712525845083</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017470.1" target="Smp_266830.2">
+      <data key="d2">0.9832622751655198</data>
+      <data key="d3">-0.9832622751655198</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017470.1" target="Smp_181080.1">
+      <data key="d2">0.9911467575781334</data>
+      <data key="d3">-0.9911467575781334</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017470.1" target="Smp_246970.2">
+      <data key="d2">0.99720098318077</data>
+      <data key="d3">-0.99720098318077</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017470.1" target="Smp_152580.1">
+      <data key="d2">0.9872595468897906</data>
+      <data key="d3">-0.9872595468897906</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_305460.1" target="Smp_324700.1">
+      <data key="d2">0.9983888229766855</data>
+      <data key="d3">-0.9983888229766855</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_305460.1" target="Smp_322930.1">
+      <data key="d2">0.9713769781954846</data>
+      <data key="d3">-0.9713769781954846</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_305460.1" target="Smp_001890.1">
+      <data key="d2">0.971413750179208</data>
+      <data key="d3">-0.971413750179208</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_305460.1" target="Smp_058140.1">
+      <data key="d2">0.9703385633441851</data>
+      <data key="d3">-0.9703385633441851</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_305460.1" target="Smp_020450.1">
+      <data key="d2">0.9749473056388046</data>
+      <data key="d3">-0.9749473056388046</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_247700.1" target="Smp_335785.1">
+      <data key="d2">0.9919349636340277</data>
+      <data key="d3">-0.9919349636340277</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_247700.1" target="Smp_193680.1">
+      <data key="d2">0.9919164693910953</data>
+      <data key="d3">-0.9919164693910953</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_105180.2">
+      <data key="d2">0.9983630807682768</data>
+      <data key="d3">-0.9983630807682768</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_302040.3">
+      <data key="d2">0.978543578220637</data>
+      <data key="d3">-0.978543578220637</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_312610.1">
+      <data key="d2">0.982749160798301</data>
+      <data key="d3">-0.982749160798301</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_133860.1">
+      <data key="d2">0.999925232203789</data>
+      <data key="d3">-0.999925232203789</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_139080.2">
+      <data key="d2">0.9886108960749125</data>
+      <data key="d3">-0.9886108960749125</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_341200.2">
+      <data key="d2">0.9808888342848361</data>
+      <data key="d3">-0.9808888342848361</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_336310.2">
+      <data key="d2">0.9937856591093703</data>
+      <data key="d3">-0.9937856591093703</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_320400.1">
+      <data key="d2">0.9730413356394412</data>
+      <data key="d3">-0.9730413356394412</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_012350.1">
+      <data key="d2">0.9870007210482489</data>
+      <data key="d3">-0.9870007210482489</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_062020.1">
+      <data key="d2">0.979545980258164</data>
+      <data key="d3">-0.979545980258164</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_331170.2">
+      <data key="d2">0.9842949144137948</data>
+      <data key="d3">-0.9842949144137948</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_302270.1">
+      <data key="d2">0.9825607535595422</data>
+      <data key="d3">-0.9825607535595422</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_181180.2">
+      <data key="d2">0.9704568937662019</data>
+      <data key="d3">-0.9704568937662019</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_017710.1" target="Smp_019690.1">
+      <data key="d2">0.9975855987445822</data>
+      <data key="d3">-0.9975855987445822</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_309730.1" target="Smp_331440.1">
+      <data key="d2">0.9797897257003457</data>
+      <data key="d3">-0.9797897257003457</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_309730.1" target="Smp_332600.2">
+      <data key="d2">0.9757625149339403</data>
+      <data key="d3">-0.9757625149339403</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318100.1" target="Smp_130470.2">
+      <data key="d2">0.9962038693065762</data>
+      <data key="d3">-0.9962038693065762</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318100.1" target="Smp_062020.1">
+      <data key="d2">0.9796388002010192</data>
+      <data key="d3">-0.9796388002010192</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318100.1" target="Smp_347900.1">
+      <data key="d2">0.9852050772988006</data>
+      <data key="d3">-0.9852050772988006</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318100.1" target="Smp_181180.2">
+      <data key="d2">0.9764755246111281</data>
+      <data key="d3">-0.9764755246111281</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318100.1" target="Smp_019690.1">
+      <data key="d2">0.9747355354164473</data>
+      <data key="d3">-0.9747355354164473</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318100.1" target="Smp_130520.4">
+      <data key="d2">0.9810198212748409</data>
+      <data key="d3">-0.9810198212748409</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318100.1" target="Smp_317240.1">
+      <data key="d2">0.970669531788549</data>
+      <data key="d3">-0.970669531788549</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318100.1" target="Smp_200460.1">
+      <data key="d2">0.9899752007627306</data>
+      <data key="d3">-0.9899752007627306</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_266830.2" target="Smp_327460.1">
+      <data key="d2">0.9919343152505109</data>
+      <data key="d3">-0.9919343152505109</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_266830.2" target="Smp_000790.1">
+      <data key="d2">0.9782060340202278</data>
+      <data key="d3">-0.9782060340202278</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_266830.2" target="Smp_074390.1">
+      <data key="d2">0.9951054947797907</data>
+      <data key="d3">-0.9951054947797907</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_266830.2" target="Smp_340300.2">
+      <data key="d2">0.971546236194392</data>
+      <data key="d3">-0.971546236194392</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_266830.2" target="Smp_328910.1">
+      <data key="d2">0.9777907690815847</data>
+      <data key="d3">-0.9777907690815847</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_266830.2" target="Smp_028210.2">
+      <data key="d2">0.9989035055742929</data>
+      <data key="d3">-0.9989035055742929</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327370.1" target="Smp_005190.3">
+      <data key="d2">0.9708356548907995</data>
+      <data key="d3">-0.9708356548907995</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327370.1" target="Smp_131680.2">
+      <data key="d2">0.9829115621697766</data>
+      <data key="d3">-0.9829115621697766</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327370.1" target="Smp_130470.2">
+      <data key="d2">0.9902044887486283</data>
+      <data key="d3">-0.9902044887486283</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327370.1" target="Smp_000790.2">
+      <data key="d2">0.9985010627513149</data>
+      <data key="d3">-0.9985010627513149</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327370.1" target="Smp_244890.1">
+      <data key="d2">0.9705226459041094</data>
+      <data key="d3">-0.9705226459041094</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327370.1" target="Smp_130520.4">
+      <data key="d2">0.998245835745052</data>
+      <data key="d3">-0.998245835745052</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327370.1" target="Smp_317240.1">
+      <data key="d2">0.982745157259905</data>
+      <data key="d3">-0.982745157259905</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327370.1" target="Smp_200460.1">
+      <data key="d2">0.9759284451527493</data>
+      <data key="d3">-0.9759284451527493</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327370.1" target="Smp_336340.1">
+      <data key="d2">0.9939446333995706</data>
+      <data key="d3">-0.9939446333995706</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332910.2" target="Smp_312620.1">
+      <data key="d2">0.9794273771494332</data>
+      <data key="d3">-0.9794273771494332</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332910.2" target="Smp_335380.1">
+      <data key="d2">0.9991432872225493</data>
+      <data key="d3">-0.9991432872225493</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332910.2" target="Smp_323420.1">
+      <data key="d2">0.9903952937654478</data>
+      <data key="d3">-0.9903952937654478</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332910.2" target="Smp_055870.2">
+      <data key="d2">0.983975775276302</data>
+      <data key="d3">-0.983975775276302</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_150080.2" target="Smp_155320.1">
+      <data key="d2">0.985602149689278</data>
+      <data key="d3">-0.985602149689278</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_150080.2" target="Smp_141010.2">
+      <data key="d2">0.9904457666976101</data>
+      <data key="d3">-0.9904457666976101</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_150080.2" target="Smp_328620.2">
+      <data key="d2">0.9946931198576783</data>
+      <data key="d3">-0.9946931198576783</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_105180.2" target="Smp_060620.1">
+      <data key="d2">0.9760228403531279</data>
+      <data key="d3">-0.9760228403531279</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_105180.2" target="Smp_302310.2">
+      <data key="d2">0.9953921890732246</data>
+      <data key="d3">-0.9953921890732246</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_105180.2" target="Smp_347540.2">
+      <data key="d2">0.9985533909424524</data>
+      <data key="d3">-0.9985533909424524</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_063530.1" target="Smp_150230.1">
+      <data key="d2">0.9972978707704605</data>
+      <data key="d3">-0.9972978707704605</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_063530.1" target="Smp_322760.1">
+      <data key="d2">0.9924861469765652</data>
+      <data key="d3">-0.9924861469765652</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_063530.1" target="Smp_347560.1">
+      <data key="d2">0.9940019664858787</data>
+      <data key="d3">-0.9940019664858787</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302040.3" target="Smp_060620.1">
+      <data key="d2">0.9898668432661726</data>
+      <data key="d3">-0.9898668432661726</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302040.3" target="Smp_122790.2">
+      <data key="d2">0.9997960341802519</data>
+      <data key="d3">-0.9997960341802519</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302040.3" target="Smp_302310.2">
+      <data key="d2">0.987867643125211</data>
+      <data key="d3">-0.987867643125211</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340840.1" target="Smp_316910.1">
+      <data key="d2">0.9981165918561237</data>
+      <data key="d3">-0.9981165918561237</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340840.1" target="Smp_140260.1">
+      <data key="d2">0.9900971883000573</data>
+      <data key="d3">-0.9900971883000573</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_310150.1" target="Smp_332600.2">
+      <data key="d2">0.9764688252777224</data>
+      <data key="d3">-0.9764688252777224</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_310150.1" target="Smp_323420.1">
+      <data key="d2">0.9727185044248693</data>
+      <data key="d3">-0.9727185044248693</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_310150.1" target="Smp_054620.3">
+      <data key="d2">0.9730863793153122</data>
+      <data key="d3">-0.9730863793153122</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_093430.1" target="Smp_155320.1">
+      <data key="d2">0.988999989481748</data>
+      <data key="d3">-0.988999989481748</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_093430.1" target="Smp_310980.1">
+      <data key="d2">0.9711416112447365</data>
+      <data key="d3">-0.9711416112447365</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_093430.1" target="Smp_141010.2">
+      <data key="d2">0.9871295373958507</data>
+      <data key="d3">-0.9871295373958507</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_093430.1" target="Smp_328620.2">
+      <data key="d2">0.9935127435432283</data>
+      <data key="d3">-0.9935127435432283</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_130520.3" target="Smp_335370.1">
+      <data key="d2">0.9800080508564262</data>
+      <data key="d3">-0.9800080508564262</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_130520.3" target="Smp_170770.2">
+      <data key="d2">0.9981971252164952</data>
+      <data key="d3">-0.9981971252164952</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_130520.3" target="Smp_211020.1">
+      <data key="d2">0.9822546774595923</data>
+      <data key="d3">-0.9822546774595923</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_312610.1">
+      <data key="d2">0.9904737933516911</data>
+      <data key="d3">-0.9904737933516911</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_133860.1">
+      <data key="d2">0.9872593695959793</data>
+      <data key="d3">-0.9872593695959793</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_139080.2">
+      <data key="d2">0.9825467288929619</data>
+      <data key="d3">-0.9825467288929619</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_336310.2">
+      <data key="d2">0.9869594129260434</data>
+      <data key="d3">-0.9869594129260434</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_005190.3">
+      <data key="d2">0.9831670624098519</data>
+      <data key="d3">-0.9831670624098519</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_130470.2">
+      <data key="d2">0.979587204560078</data>
+      <data key="d3">-0.979587204560078</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_000790.2">
+      <data key="d2">0.9935255097233101</data>
+      <data key="d3">-0.9935255097233101</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_331170.2">
+      <data key="d2">0.9908062444607556</data>
+      <data key="d3">-0.9908062444607556</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_302270.1">
+      <data key="d2">0.9893295576283259</data>
+      <data key="d3">-0.9893295576283259</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_019690.1">
+      <data key="d2">0.9757054797809451</data>
+      <data key="d3">-0.9757054797809451</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_130520.4">
+      <data key="d2">0.9853609996147759</data>
+      <data key="d3">-0.9853609996147759</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_029210.2">
+      <data key="d2">0.9824986004427461</data>
+      <data key="d3">-0.9824986004427461</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_060620.1" target="Smp_336340.1">
+      <data key="d2">0.9745247352903035</data>
+      <data key="d3">-0.9745247352903035</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332840.1" target="Smp_179970.1">
+      <data key="d2">0.9920577489048029</data>
+      <data key="d3">-0.9920577489048029</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_172510.2" target="Smp_317510.1">
+      <data key="d2">0.9919170234884196</data>
+      <data key="d3">-0.9919170234884196</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_172510.2" target="Smp_335380.1">
+      <data key="d2">0.9716974093262398</data>
+      <data key="d3">-0.9716974093262398</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_172510.2" target="Smp_154900.1">
+      <data key="d2">0.9829396419481676</data>
+      <data key="d3">-0.9829396419481676</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_172510.2" target="Smp_055870.2">
+      <data key="d2">0.9991051558043244</data>
+      <data key="d3">-0.9991051558043244</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_172510.2" target="Smp_203090.1">
+      <data key="d2">0.9966725103695663</data>
+      <data key="d3">-0.9966725103695663</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_155320.1" target="Smp_347590.1">
+      <data key="d2">0.9798377035442297</data>
+      <data key="d3">-0.9798377035442297</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_155320.1" target="Smp_152290.1">
+      <data key="d2">0.9971634182780558</data>
+      <data key="d3">-0.9971634182780558</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_155320.1" target="Smp_141010.3">
+      <data key="d2">0.9838997016083748</data>
+      <data key="d3">-0.9838997016083748</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_046060.1" target="Smp_165050.1">
+      <data key="d2">0.9722893839275156</data>
+      <data key="d3">-0.9722893839275156</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_046060.1" target="Smp_152590.1">
+      <data key="d2">0.9709814196222365</data>
+      <data key="d3">-0.9709814196222365</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_246050.2">
+      <data key="d2">0.9835364123615891</data>
+      <data key="d3">-0.9835364123615891</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_312610.1">
+      <data key="d2">0.999038472206355</data>
+      <data key="d3">-0.999038472206355</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_133860.1">
+      <data key="d2">0.9766079943467748</data>
+      <data key="d3">-0.9766079943467748</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_139080.2">
+      <data key="d2">0.9920734763529474</data>
+      <data key="d3">-0.9920734763529474</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_341200.2">
+      <data key="d2">0.9748554335218759</data>
+      <data key="d3">-0.9748554335218759</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_336310.2">
+      <data key="d2">0.9904404090026124</data>
+      <data key="d3">-0.9904404090026124</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_012350.1">
+      <data key="d2">0.974182430851563</data>
+      <data key="d3">-0.974182430851563</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_005190.3">
+      <data key="d2">0.9949718548750708</data>
+      <data key="d3">-0.9949718548750708</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_210520.2">
+      <data key="d2">0.9790077104435153</data>
+      <data key="d3">-0.9790077104435153</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_331590.1">
+      <data key="d2">0.9731972994034872</data>
+      <data key="d3">-0.9731972994034872</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_000790.2">
+      <data key="d2">0.9762769191205911</data>
+      <data key="d3">-0.9762769191205911</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_331170.2">
+      <data key="d2">0.9986182957779843</data>
+      <data key="d3">-0.9986182957779843</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_149380.2">
+      <data key="d2">0.9865230360747254</data>
+      <data key="d3">-0.9865230360747254</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_302270.1">
+      <data key="d2">0.9988675494454795</data>
+      <data key="d3">-0.9988675494454795</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_122790.2" target="Smp_029210.2">
+      <data key="d2">0.99913751278006</data>
+      <data key="d3">-0.99913751278006</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_163570.2" target="Smp_245600.2">
+      <data key="d2">0.9949823672902472</data>
+      <data key="d3">-0.9949823672902472</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_345970.2" target="Smp_312620.1">
+      <data key="d2">0.9750226631622643</data>
+      <data key="d3">-0.9750226631622643</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_345970.2" target="Smp_322980.1">
+      <data key="d2">0.9726256369045609</data>
+      <data key="d3">-0.9726256369045609</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_345970.2" target="Smp_347540.2">
+      <data key="d2">0.9877249833145888</data>
+      <data key="d3">-0.9877249833145888</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_201530.1" target="Smp_179970.1">
+      <data key="d2">0.9923248526658619</data>
+      <data key="d3">-0.9923248526658619</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246050.2" target="Smp_317510.1">
+      <data key="d2">0.9745802030043175</data>
+      <data key="d3">-0.9745802030043175</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246050.2" target="Smp_349480.1">
+      <data key="d2">0.9724723834948151</data>
+      <data key="d3">-0.9724723834948151</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246050.2" target="Smp_203090.1">
+      <data key="d2">0.9862723478468108</data>
+      <data key="d3">-0.9862723478468108</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_163600.1" target="Smp_170770.2">
+      <data key="d2">0.9835300810443875</data>
+      <data key="d3">-0.9835300810443875</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_163600.1" target="Smp_179970.1">
+      <data key="d2">0.9865983431004999</data>
+      <data key="d3">-0.9865983431004999</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331190.1" target="Smp_246050.3">
+      <data key="d2">0.9783629622873636</data>
+      <data key="d3">-0.9783629622873636</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331190.1" target="Smp_130520.1">
+      <data key="d2">0.9854165098063433</data>
+      <data key="d3">-0.9854165098063433</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_049230.1" target="Smp_348240.1">
+      <data key="d2">0.9943220954883203</data>
+      <data key="d3">-0.9943220954883203</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_049230.1" target="Smp_335670.1">
+      <data key="d2">0.9948840552793367</data>
+      <data key="d3">-0.9948840552793367</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019840.1" target="Smp_317510.1">
+      <data key="d2">0.9837564094682043</data>
+      <data key="d3">-0.9837564094682043</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019840.1" target="Smp_349480.1">
+      <data key="d2">0.9856392294531869</data>
+      <data key="d3">-0.9856392294531869</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019840.1" target="Smp_179970.1">
+      <data key="d2">0.9713181013173415</data>
+      <data key="d3">-0.9713181013173415</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019840.1" target="Smp_154900.1">
+      <data key="d2">0.9790420816885819</data>
+      <data key="d3">-0.9790420816885819</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_091190.2" target="Smp_007630.2">
+      <data key="d2">0.9966433127416956</data>
+      <data key="d3">-0.9966433127416956</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_091190.2" target="Smp_337670.1">
+      <data key="d2">0.9913140391713692</data>
+      <data key="d3">-0.9913140391713692</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_346930.2" target="Smp_310980.1">
+      <data key="d2">0.9719027157717954</data>
+      <data key="d3">-0.9719027157717954</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_346930.2" target="Smp_141010.2">
+      <data key="d2">0.9868595153423882</data>
+      <data key="d3">-0.9868595153423882</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_346930.2" target="Smp_328620.2">
+      <data key="d2">0.9896110633252105</data>
+      <data key="d3">-0.9896110633252105</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_346930.2" target="Smp_058140.1">
+      <data key="d2">0.9969203107264509</data>
+      <data key="d3">-0.9969203107264509</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_346380.2" target="Smp_331380.1">
+      <data key="d2">0.9723018595349003</data>
+      <data key="d3">-0.9723018595349003</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_164270.1" target="Smp_019690.2">
+      <data key="d2">0.9730915000760487</data>
+      <data key="d3">-0.9730915000760487</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_164270.1" target="Smp_032670.1">
+      <data key="d2">0.9759459541309158</data>
+      <data key="d3">-0.9759459541309158</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_164270.1" target="Smp_043500.2">
+      <data key="d2">0.9754737550499105</data>
+      <data key="d3">-0.9754737550499105</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_164270.1" target="Smp_082410.1">
+      <data key="d2">0.9835536010858927</data>
+      <data key="d3">-0.9835536010858927</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_164270.1" target="Smp_327460.1">
+      <data key="d2">0.9728137779773016</data>
+      <data key="d3">-0.9728137779773016</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_164270.1" target="Smp_000790.1">
+      <data key="d2">0.9963608420031238</data>
+      <data key="d3">-0.9963608420031238</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_164270.1" target="Smp_340300.2">
+      <data key="d2">0.9989283692345124</data>
+      <data key="d3">-0.9989283692345124</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_165350.1" target="Smp_312620.1">
+      <data key="d2">0.9813503027033554</data>
+      <data key="d3">-0.9813503027033554</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_165350.1" target="Smp_335380.1">
+      <data key="d2">0.9996764935364122</data>
+      <data key="d3">-0.9996764935364122</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_165350.1" target="Smp_323420.1">
+      <data key="d2">0.9900752202680275</data>
+      <data key="d3">-0.9900752202680275</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_165350.1" target="Smp_055870.2">
+      <data key="d2">0.9816290653788212</data>
+      <data key="d3">-0.9816290653788212</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_000500.1" target="Smp_246050.3">
+      <data key="d2">0.9955574077394574</data>
+      <data key="d3">-0.9955574077394574</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_000500.1" target="Smp_130520.1">
+      <data key="d2">0.9938714527315075</data>
+      <data key="d3">-0.9938714527315075</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_000500.1" target="Smp_345970.1">
+      <data key="d2">0.9951080953201986</data>
+      <data key="d3">-0.9951080953201986</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_312610.1" target="Smp_302310.2">
+      <data key="d2">0.9911048015572914</data>
+      <data key="d3">-0.9911048015572914</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_150230.1" target="Smp_133590.1">
+      <data key="d2">0.9708626696837658</data>
+      <data key="d3">-0.9708626696837658</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_150230.1" target="Smp_347490.1">
+      <data key="d2">0.9993233955378559</data>
+      <data key="d3">-0.9993233955378559</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_150230.1" target="Smp_019690.2">
+      <data key="d2">0.9912757185971917</data>
+      <data key="d3">-0.9912757185971917</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_150230.1" target="Smp_043500.2">
+      <data key="d2">0.9939781920905225</data>
+      <data key="d3">-0.9939781920905225</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_150230.1" target="Smp_082410.1">
+      <data key="d2">0.9816136429375126</data>
+      <data key="d3">-0.9816136429375126</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_150230.1" target="Smp_000790.1">
+      <data key="d2">0.9717404441875811</data>
+      <data key="d3">-0.9717404441875811</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_150230.1" target="Smp_169220.1">
+      <data key="d2">0.9801511534708469</data>
+      <data key="d3">-0.9801511534708469</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_150230.1" target="Smp_328360.1">
+      <data key="d2">0.9749818988868861</data>
+      <data key="d3">-0.9749818988868861</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_324700.1" target="Smp_323420.1">
+      <data key="d2">0.9713295360277423</data>
+      <data key="d3">-0.9713295360277423</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323240.1" target="Smp_246050.3">
+      <data key="d2">0.9861273541323547</data>
+      <data key="d3">-0.9861273541323547</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323240.1" target="Smp_130520.1">
+      <data key="d2">0.9807080482609088</data>
+      <data key="d3">-0.9807080482609088</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323240.1" target="Smp_345970.1">
+      <data key="d2">0.9909039131299995</data>
+      <data key="d3">-0.9909039131299995</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_163600.2" target="Smp_245600.2">
+      <data key="d2">0.9782647115752198</data>
+      <data key="d3">-0.9782647115752198</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_349140.1" target="Smp_181080.1">
+      <data key="d2">0.9859167021982247</data>
+      <data key="d3">-0.9859167021982247</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_349140.1" target="Smp_246970.2">
+      <data key="d2">0.9818838926215587</data>
+      <data key="d3">-0.9818838926215587</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.1" target="Smp_322760.1">
+      <data key="d2">0.981664733014606</data>
+      <data key="d3">-0.981664733014606</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.1" target="Smp_152580.1">
+      <data key="d2">0.9792375711534721</data>
+      <data key="d3">-0.9792375711534721</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.1" target="Smp_212300.2">
+      <data key="d2">0.9781856667343102</data>
+      <data key="d3">-0.9781856667343102</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.1" target="Smp_347560.1">
+      <data key="d2">0.9733647197359082</data>
+      <data key="d3">-0.9733647197359082</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133590.1" target="Smp_214020.2">
+      <data key="d2">0.9803148224839673</data>
+      <data key="d3">-0.9803148224839673</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133860.1" target="Smp_302310.2">
+      <data key="d2">0.9990568807808972</data>
+      <data key="d3">-0.9990568807808972</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_133860.1" target="Smp_347540.2">
+      <data key="d2">0.993978899952059</data>
+      <data key="d3">-0.993978899952059</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332090.1" target="Smp_314280.1">
+      <data key="d2">0.9884919928928444</data>
+      <data key="d3">-0.9884919928928444</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332090.1" target="Smp_322980.1">
+      <data key="d2">0.985734915833211</data>
+      <data key="d3">-0.985734915833211</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_055090.3" target="Smp_312620.1">
+      <data key="d2">0.9746572378263577</data>
+      <data key="d3">-0.9746572378263577</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_055090.3" target="Smp_022320.2">
+      <data key="d2">0.9810566480182839</data>
+      <data key="d3">-0.9810566480182839</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_055090.3" target="Smp_314280.1">
+      <data key="d2">0.9938837760825915</data>
+      <data key="d3">-0.9938837760825915</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_055090.3" target="Smp_322980.1">
+      <data key="d2">0.9912843367577628</data>
+      <data key="d3">-0.9912843367577628</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_347490.1" target="Smp_322760.1">
+      <data key="d2">0.991723230024403</data>
+      <data key="d3">-0.991723230024403</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_347490.1" target="Smp_347900.1">
+      <data key="d2">0.9741770617880666</data>
+      <data key="d3">-0.9741770617880666</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_347490.1" target="Smp_347560.1">
+      <data key="d2">0.995853505257016</data>
+      <data key="d3">-0.995853505257016</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_347490.1" target="Smp_200460.1">
+      <data key="d2">0.976771761993353</data>
+      <data key="d3">-0.976771761993353</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_125250.1" target="Smp_312620.1">
+      <data key="d2">0.9742426742471241</data>
+      <data key="d3">-0.9742426742471241</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_125250.1" target="Smp_335380.1">
+      <data key="d2">0.9959978420159493</data>
+      <data key="d3">-0.9959978420159493</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_125250.1" target="Smp_323420.1">
+      <data key="d2">0.9907919421788115</data>
+      <data key="d3">-0.9907919421788115</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_125250.1" target="Smp_055870.2">
+      <data key="d2">0.9873636641648205</data>
+      <data key="d3">-0.9873636641648205</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_139080.2" target="Smp_335380.1">
+      <data key="d2">0.9750369168442145</data>
+      <data key="d3">-0.9750369168442145</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_139080.2" target="Smp_302310.2">
+      <data key="d2">0.9952078378155961</data>
+      <data key="d3">-0.9952078378155961</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_139080.2" target="Smp_347540.2">
+      <data key="d2">0.9815577835498097</data>
+      <data key="d3">-0.9815577835498097</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331440.1" target="Smp_322930.1">
+      <data key="d2">0.9967667144741144</data>
+      <data key="d3">-0.9967667144741144</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331440.1" target="Smp_201340.1">
+      <data key="d2">0.9849650908622247</data>
+      <data key="d3">-0.9849650908622247</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331440.1" target="Smp_040710.2">
+      <data key="d2">0.9936904867597736</data>
+      <data key="d3">-0.9936904867597736</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331440.1" target="Smp_020450.1">
+      <data key="d2">0.9926328573980704</data>
+      <data key="d3">-0.9926328573980704</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331440.1" target="Smp_058050.1">
+      <data key="d2">0.997110077857767</data>
+      <data key="d3">-0.997110077857767</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331440.1" target="Smp_141290.1">
+      <data key="d2">0.9858016394379049</data>
+      <data key="d3">-0.9858016394379049</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_312620.1" target="Smp_320400.1">
+      <data key="d2">0.9804316489878346</data>
+      <data key="d3">-0.9804316489878346</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_312620.1" target="Smp_088420.1">
+      <data key="d2">0.9872050782086808</data>
+      <data key="d3">-0.9872050782086808</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_312620.1" target="Smp_146150.1">
+      <data key="d2">0.9735743369258569</data>
+      <data key="d3">-0.9735743369258569</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_312620.1" target="Smp_063530.2">
+      <data key="d2">0.9875195849263161</data>
+      <data key="d3">-0.9875195849263161</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_312620.1" target="Smp_041500.2">
+      <data key="d2">0.9811192012446375</data>
+      <data key="d3">-0.9811192012446375</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322930.1" target="Smp_332600.2">
+      <data key="d2">0.9732167089632608</data>
+      <data key="d3">-0.9732167089632608</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322930.1" target="Smp_054620.3">
+      <data key="d2">0.9999877890567317</data>
+      <data key="d3">-0.9999877890567317</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_341200.2" target="Smp_335380.1">
+      <data key="d2">0.988870541959078</data>
+      <data key="d3">-0.988870541959078</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_341200.2" target="Smp_302310.2">
+      <data key="d2">0.9870156998971229</data>
+      <data key="d3">-0.9870156998971229</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_341200.2" target="Smp_347540.2">
+      <data key="d2">0.9850615359335105</data>
+      <data key="d3">-0.9850615359335105</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_328440.1" target="Smp_150230.2">
+      <data key="d2">0.9852751773342268</data>
+      <data key="d3">-0.9852751773342268</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246970.1" target="Smp_048050.2">
+      <data key="d2">0.998020193754394</data>
+      <data key="d3">-0.998020193754394</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_317510.1" target="Smp_131390.1">
+      <data key="d2">0.9892169069495893</data>
+      <data key="d3">-0.9892169069495893</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_317510.1" target="Smp_176260.1">
+      <data key="d2">0.990644973086692</data>
+      <data key="d3">-0.990644973086692</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_317510.1" target="Smp_170770.1">
+      <data key="d2">0.9881288971473577</data>
+      <data key="d3">-0.9881288971473577</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_317510.1" target="Smp_331590.1">
+      <data key="d2">0.9909150601721584</data>
+      <data key="d3">-0.9909150601721584</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_317510.1" target="Smp_168080.2">
+      <data key="d2">0.9996874052148581</data>
+      <data key="d3">-0.9996874052148581</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_131390.1" target="Smp_349480.1">
+      <data key="d2">0.9934018092575436</data>
+      <data key="d3">-0.9934018092575436</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_131390.1" target="Smp_154900.1">
+      <data key="d2">0.9764024741572268</data>
+      <data key="d3">-0.9764024741572268</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_131390.1" target="Smp_203090.1">
+      <data key="d2">0.9783096946899723</data>
+      <data key="d3">-0.9783096946899723</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_106010.1" target="Smp_019690.2">
+      <data key="d2">0.9733050102419845</data>
+      <data key="d3">-0.9733050102419845</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_106010.1" target="Smp_032670.1">
+      <data key="d2">0.9803791466029581</data>
+      <data key="d3">-0.9803791466029581</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_106010.1" target="Smp_043500.2">
+      <data key="d2">0.975019888707519</data>
+      <data key="d3">-0.975019888707519</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_106010.1" target="Smp_082410.1">
+      <data key="d2">0.9845575858998176</data>
+      <data key="d3">-0.9845575858998176</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_106010.1" target="Smp_000790.1">
+      <data key="d2">0.9945046617591546</data>
+      <data key="d3">-0.9945046617591546</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_106010.1" target="Smp_340300.2">
+      <data key="d2">0.9980812093200018</data>
+      <data key="d3">-0.9980812093200018</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326490.1" target="Smp_313630.1">
+      <data key="d2">0.9905113788590034</data>
+      <data key="d3">-0.9905113788590034</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_326490.1" target="Smp_121990.2">
+      <data key="d2">0.9766440572861286</data>
+      <data key="d3">-0.9766440572861286</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_001890.1" target="Smp_323420.1">
+      <data key="d2">0.9815492135201328</data>
+      <data key="d3">-0.9815492135201328</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322760.1" target="Smp_019690.2">
+      <data key="d2">0.9810676222801034</data>
+      <data key="d3">-0.9810676222801034</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322760.1" target="Smp_043500.2">
+      <data key="d2">0.9864626076740068</data>
+      <data key="d3">-0.9864626076740068</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322760.1" target="Smp_082410.1">
+      <data key="d2">0.9795829091764138</data>
+      <data key="d3">-0.9795829091764138</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322760.1" target="Smp_327460.1">
+      <data key="d2">0.9907846738912369</data>
+      <data key="d3">-0.9907846738912369</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322760.1" target="Smp_000790.1">
+      <data key="d2">0.9950791401544113</data>
+      <data key="d3">-0.9950791401544113</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322760.1" target="Smp_340300.2">
+      <data key="d2">0.990519951100764</data>
+      <data key="d3">-0.990519951100764</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_322760.1" target="Smp_028210.2">
+      <data key="d2">0.9723463282790986</data>
+      <data key="d3">-0.9723463282790986</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_336310.2" target="Smp_302310.2">
+      <data key="d2">0.9983386688236398</data>
+      <data key="d3">-0.9983386688236398</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_336310.2" target="Smp_347540.2">
+      <data key="d2">0.986234963469443</data>
+      <data key="d3">-0.986234963469443</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_320400.1" target="Smp_335380.1">
+      <data key="d2">0.9895668759474084</data>
+      <data key="d3">-0.9895668759474084</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_320400.1" target="Smp_302310.2">
+      <data key="d2">0.9778787198779382</data>
+      <data key="d3">-0.9778787198779382</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_320400.1" target="Smp_347540.2">
+      <data key="d2">0.9845772163556934</data>
+      <data key="d3">-0.9845772163556934</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_012350.1" target="Smp_335380.1">
+      <data key="d2">0.9826224503467409</data>
+      <data key="d3">-0.9826224503467409</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_012350.1" target="Smp_302310.2">
+      <data key="d2">0.9911421660040314</data>
+      <data key="d3">-0.9911421660040314</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_012350.1" target="Smp_347540.2">
+      <data key="d2">0.9908921968212694</data>
+      <data key="d3">-0.9908921968212694</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_210520.2" target="Smp_335380.1">
+      <data key="d2">0.9932289382095357</data>
+      <data key="d3">-0.9932289382095357</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_210520.2" target="Smp_055870.2">
+      <data key="d2">0.9905988730616776</data>
+      <data key="d3">-0.9905988730616776</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_210520.2" target="Smp_203090.1">
+      <data key="d2">0.9787473110288022</data>
+      <data key="d3">-0.9787473110288022</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_176260.1" target="Smp_332600.2">
+      <data key="d2">0.9713564676415656</data>
+      <data key="d3">-0.9713564676415656</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_176260.1" target="Smp_154900.1">
+      <data key="d2">0.9944478127966989</data>
+      <data key="d3">-0.9944478127966989</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_176260.1" target="Smp_055870.2">
+      <data key="d2">0.9927398337094299</data>
+      <data key="d3">-0.9927398337094299</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_176260.1" target="Smp_203090.1">
+      <data key="d2">0.9878546395757677</data>
+      <data key="d3">-0.9878546395757677</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335380.1" target="Smp_194370.1">
+      <data key="d2">0.995670936502116</data>
+      <data key="d3">-0.995670936502116</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335380.1" target="Smp_149380.2">
+      <data key="d2">0.9886352376081772</data>
+      <data key="d3">-0.9886352376081772</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335380.1" target="Smp_063530.2">
+      <data key="d2">0.9925194983468055</data>
+      <data key="d3">-0.9925194983468055</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335380.1" target="Smp_004690.2">
+      <data key="d2">0.9985752775225549</data>
+      <data key="d3">-0.9985752775225549</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335380.1" target="Smp_041500.2">
+      <data key="d2">0.997223894454775</data>
+      <data key="d3">-0.997223894454775</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335380.1" target="Smp_127870.1">
+      <data key="d2">0.986128415177073</data>
+      <data key="d3">-0.986128415177073</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335380.1" target="Smp_244860.1">
+      <data key="d2">0.9905220394402429</data>
+      <data key="d3">-0.9905220394402429</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019690.2" target="Smp_130470.2">
+      <data key="d2">0.9827106988959383</data>
+      <data key="d3">-0.9827106988959383</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019690.2" target="Smp_347900.1">
+      <data key="d2">0.9877630491950619</data>
+      <data key="d3">-0.9877630491950619</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019690.2" target="Smp_347560.1">
+      <data key="d2">0.9909890320037225</data>
+      <data key="d3">-0.9909890320037225</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019690.2" target="Smp_317240.1">
+      <data key="d2">0.975501188155753</data>
+      <data key="d3">-0.975501188155753</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019690.2" target="Smp_200460.1">
+      <data key="d2">0.9946941027049463</data>
+      <data key="d3">-0.9946941027049463</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_131680.2" target="Smp_032670.1">
+      <data key="d2">0.9943850014148139</data>
+      <data key="d3">-0.9943850014148139</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_131680.2" target="Smp_082410.1">
+      <data key="d2">0.9747306428914692</data>
+      <data key="d3">-0.9747306428914692</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_131680.2" target="Smp_000790.1">
+      <data key="d2">0.9795815043133315</data>
+      <data key="d3">-0.9795815043133315</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_131680.2" target="Smp_340300.2">
+      <data key="d2">0.9873453738766825</data>
+      <data key="d3">-0.9873453738766825</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_130470.2" target="Smp_032670.1">
+      <data key="d2">0.9785327989848706</data>
+      <data key="d3">-0.9785327989848706</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_130470.2" target="Smp_043500.2">
+      <data key="d2">0.9777819020681696</data>
+      <data key="d3">-0.9777819020681696</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_130470.2" target="Smp_082410.1">
+      <data key="d2">0.9907696804967943</data>
+      <data key="d3">-0.9907696804967943</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_130470.2" target="Smp_328360.1">
+      <data key="d2">0.9841603665255418</data>
+      <data key="d3">-0.9841603665255418</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_130470.2" target="Smp_150000.1">
+      <data key="d2">0.9944612334205007</data>
+      <data key="d3">-0.9944612334205007</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_307220.3" target="Smp_314280.1">
+      <data key="d2">0.972942809177911</data>
+      <data key="d3">-0.972942809177911</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_307220.3" target="Smp_322980.1">
+      <data key="d2">0.9782599324147563</data>
+      <data key="d3">-0.9782599324147563</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335785.1" target="Smp_010550.1">
+      <data key="d2">0.9991075850360412</data>
+      <data key="d3">-0.9991075850360412</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335785.1" target="Smp_212300.2">
+      <data key="d2">0.9931628427989695</data>
+      <data key="d3">-0.9931628427989695</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335785.1" target="Smp_214020.2">
+      <data key="d2">0.9884134245075785</data>
+      <data key="d3">-0.9884134245075785</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_310980.1" target="Smp_152290.1">
+      <data key="d2">0.9808530933068148</data>
+      <data key="d3">-0.9808530933068148</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_192010.1" target="Smp_054620.3">
+      <data key="d2">0.9709192197366661</data>
+      <data key="d3">-0.9709192197366661</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_192010.1" target="Smp_058140.3">
+      <data key="d2">0.9877098953802103</data>
+      <data key="d3">-0.9877098953802103</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_349480.1" target="Smp_170770.1">
+      <data key="d2">0.994644091699301</data>
+      <data key="d3">-0.994644091699301</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318200.2" target="Smp_335370.1">
+      <data key="d2">0.982638645062523</data>
+      <data key="d3">-0.982638645062523</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318200.2" target="Smp_170770.2">
+      <data key="d2">0.9933970992281663</data>
+      <data key="d3">-0.9933970992281663</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318200.2" target="Smp_211020.1">
+      <data key="d2">0.9775313138474788</data>
+      <data key="d3">-0.9775313138474788</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_181080.2" target="Smp_048050.2">
+      <data key="d2">0.9976853417866404</data>
+      <data key="d3">-0.9976853417866404</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335370.1" target="Smp_061250.2">
+      <data key="d2">0.9764071851318491</data>
+      <data key="d3">-0.9764071851318491</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_022320.2" target="Smp_146150.1">
+      <data key="d2">0.9761876044250475</data>
+      <data key="d3">-0.9761876044250475</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_022320.2" target="Smp_046060.2">
+      <data key="d2">0.9770236175319422</data>
+      <data key="d3">-0.9770236175319422</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_022320.2" target="Smp_173380.1">
+      <data key="d2">0.9721034053973467</data>
+      <data key="d3">-0.9721034053973467</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_088420.1" target="Smp_314280.1">
+      <data key="d2">0.9796278206566599</data>
+      <data key="d3">-0.9796278206566599</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_088420.1" target="Smp_322980.1">
+      <data key="d2">0.9943551913859172</data>
+      <data key="d3">-0.9943551913859172</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_201340.1" target="Smp_332600.2">
+      <data key="d2">0.9717625936530491</data>
+      <data key="d3">-0.9717625936530491</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_170770.1" target="Smp_154900.1">
+      <data key="d2">0.9739804343331994</data>
+      <data key="d3">-0.9739804343331994</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_170770.1" target="Smp_203090.1">
+      <data key="d2">0.9775397073529294</data>
+      <data key="d3">-0.9775397073529294</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331590.1" target="Smp_154900.1">
+      <data key="d2">0.9702269218447375</data>
+      <data key="d3">-0.9702269218447375</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331590.1" target="Smp_055870.2">
+      <data key="d2">0.9930072700573445</data>
+      <data key="d3">-0.9930072700573445</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331590.1" target="Smp_203090.1">
+      <data key="d2">0.9988387148935337</data>
+      <data key="d3">-0.9988387148935337</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332600.2" target="Smp_040710.2">
+      <data key="d2">0.9982358814491936</data>
+      <data key="d3">-0.9982358814491936</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332600.2" target="Smp_314730.1">
+      <data key="d2">0.9835604301025633</data>
+      <data key="d3">-0.9835604301025633</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332600.2" target="Smp_058050.1">
+      <data key="d2">0.9923395546482261</data>
+      <data key="d3">-0.9923395546482261</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332600.2" target="Smp_061250.2">
+      <data key="d2">0.9742902815410375</data>
+      <data key="d3">-0.9742902815410375</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_332600.2" target="Smp_141290.1">
+      <data key="d2">0.9701870125615167</data>
+      <data key="d3">-0.9701870125615167</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_062020.1" target="Smp_347540.2">
+      <data key="d2">0.9832233107154148</data>
+      <data key="d3">-0.9832233107154148</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_062020.1" target="Smp_328360.1">
+      <data key="d2">0.9804474191164598</data>
+      <data key="d3">-0.9804474191164598</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_062020.1" target="Smp_150000.1">
+      <data key="d2">0.9832540924250346</data>
+      <data key="d3">-0.9832540924250346</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_032670.1" target="Smp_000790.2">
+      <data key="d2">0.994742464927119</data>
+      <data key="d3">-0.994742464927119</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_032670.1" target="Smp_244890.1">
+      <data key="d2">0.9865718709226827</data>
+      <data key="d3">-0.9865718709226827</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_032670.1" target="Smp_130520.4">
+      <data key="d2">0.9949823252942442</data>
+      <data key="d3">-0.9949823252942442</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_032670.1" target="Smp_304890.2">
+      <data key="d2">0.9748250801634825</data>
+      <data key="d3">-0.9748250801634825</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_032670.1" target="Smp_317240.1">
+      <data key="d2">0.9894233341303016</data>
+      <data key="d3">-0.9894233341303016</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_032670.1" target="Smp_200460.1">
+      <data key="d2">0.97160683972531</data>
+      <data key="d3">-0.97160683972531</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_032670.1" target="Smp_336340.1">
+      <data key="d2">0.9989379132168283</data>
+      <data key="d3">-0.9989379132168283</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_168080.2" target="Smp_154900.1">
+      <data key="d2">0.9941849755729013</data>
+      <data key="d3">-0.9941849755729013</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_168080.2" target="Smp_055870.2">
+      <data key="d2">0.9872475533391595</data>
+      <data key="d3">-0.9872475533391595</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_168080.2" target="Smp_203090.1">
+      <data key="d2">0.9953672895085327</data>
+      <data key="d3">-0.9953672895085327</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_043500.2" target="Smp_347900.1">
+      <data key="d2">0.9842606709544439</data>
+      <data key="d3">-0.9842606709544439</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_043500.2" target="Smp_347560.1">
+      <data key="d2">0.9945938603952934</data>
+      <data key="d3">-0.9945938603952934</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_043500.2" target="Smp_317240.1">
+      <data key="d2">0.9750665826943039</data>
+      <data key="d3">-0.9750665826943039</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_043500.2" target="Smp_200460.1">
+      <data key="d2">0.9932725639800797</data>
+      <data key="d3">-0.9932725639800797</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_040710.2" target="Smp_054620.3">
+      <data key="d2">0.9839393028439735</data>
+      <data key="d3">-0.9839393028439735</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_146150.1" target="Smp_314280.1">
+      <data key="d2">0.97876689695663</data>
+      <data key="d3">-0.97876689695663</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_146150.1" target="Smp_322980.1">
+      <data key="d2">0.982711328770631</data>
+      <data key="d3">-0.982711328770631</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_194370.1" target="Smp_323420.1">
+      <data key="d2">0.9853799905860908</data>
+      <data key="d3">-0.9853799905860908</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_194370.1" target="Smp_055870.2">
+      <data key="d2">0.9921453285760244</data>
+      <data key="d3">-0.9921453285760244</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_194370.1" target="Smp_203090.1">
+      <data key="d2">0.9711127299340595</data>
+      <data key="d3">-0.9711127299340595</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_343390.1" target="Smp_007630.2">
+      <data key="d2">0.9980146747946312</data>
+      <data key="d3">-0.9980146747946312</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_343390.1" target="Smp_337670.1">
+      <data key="d2">0.9935738324170011</data>
+      <data key="d3">-0.9935738324170011</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_313630.1" target="Smp_334920.1">
+      <data key="d2">0.9807763665965037</data>
+      <data key="d3">-0.9807763665965037</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_320100.1" target="Smp_137840.2">
+      <data key="d2">0.9840554477006681</data>
+      <data key="d3">-0.9840554477006681</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_320100.1" target="Smp_058140.3">
+      <data key="d2">0.9764606050149028</data>
+      <data key="d3">-0.9764606050149028</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_304890.1" target="Smp_245600.2">
+      <data key="d2">0.9801370406619402</data>
+      <data key="d3">-0.9801370406619402</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_331170.2" target="Smp_302310.2">
+      <data key="d2">0.9922301858809259</data>
+      <data key="d3">-0.9922301858809259</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246050.3" target="Smp_046060.2">
+      <data key="d2">0.9845881558884046</data>
+      <data key="d3">-0.9845881558884046</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_171140.1" target="Smp_245600.2">
+      <data key="d2">0.9981649550777689</data>
+      <data key="d3">-0.9981649550777689</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_149380.2" target="Smp_302310.2">
+      <data key="d2">0.9716326922784113</data>
+      <data key="d3">-0.9716326922784113</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_149380.2" target="Smp_055870.2">
+      <data key="d2">0.9872921410814621</data>
+      <data key="d3">-0.9872921410814621</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_149380.2" target="Smp_203090.1">
+      <data key="d2">0.9788867303209592</data>
+      <data key="d3">-0.9788867303209592</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_335110.1" target="Smp_335670.1">
+      <data key="d2">0.9746881374766401</data>
+      <data key="d3">-0.9746881374766401</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_334920.1" target="Smp_345970.1">
+      <data key="d2">0.9717434877961133</data>
+      <data key="d3">-0.9717434877961133</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_347900.1" target="Smp_082410.1">
+      <data key="d2">0.9785895695768972</data>
+      <data key="d3">-0.9785895695768972</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_347900.1" target="Smp_169220.1">
+      <data key="d2">0.9896876555128455</data>
+      <data key="d3">-0.9896876555128455</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_347900.1" target="Smp_328360.1">
+      <data key="d2">0.9972425280897093</data>
+      <data key="d3">-0.9972425280897093</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_347900.1" target="Smp_150000.1">
+      <data key="d2">0.9868566676998516</data>
+      <data key="d3">-0.9868566676998516</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_010550.1" target="Smp_193680.1">
+      <data key="d2">0.9912490095849248</data>
+      <data key="d3">-0.9912490095849248</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_010550.1" target="Smp_341710.1">
+      <data key="d2">0.9757786844374537</data>
+      <data key="d3">-0.9757786844374537</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_170770.2" target="Smp_344420.1">
+      <data key="d2">0.9790736347630331</data>
+      <data key="d3">-0.9790736347630331</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_170770.2" target="Smp_061250.2">
+      <data key="d2">0.9852288754883416</data>
+      <data key="d3">-0.9852288754883416</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_130520.1" target="Smp_046060.2">
+      <data key="d2">0.9918396777849567</data>
+      <data key="d3">-0.9918396777849567</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302270.1" target="Smp_302310.2">
+      <data key="d2">0.991084438207885</data>
+      <data key="d3">-0.991084438207885</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_316910.1" target="Smp_071590.1">
+      <data key="d2">0.9952342908274302</data>
+      <data key="d3">-0.9952342908274302</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_316910.1" target="Smp_244440.1">
+      <data key="d2">0.9844802065062944</data>
+      <data key="d3">-0.9844802065062944</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_063530.2" target="Smp_323420.1">
+      <data key="d2">0.9789010384603142</data>
+      <data key="d3">-0.9789010384603142</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_063530.2" target="Smp_322980.1">
+      <data key="d2">0.97121215866422</data>
+      <data key="d3">-0.97121215866422</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_063530.2" target="Smp_347540.2">
+      <data key="d2">0.977120916192883</data>
+      <data key="d3">-0.977120916192883</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_082410.1" target="Smp_347560.1">
+      <data key="d2">0.9889738390697163</data>
+      <data key="d3">-0.9889738390697163</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_082410.1" target="Smp_130520.4">
+      <data key="d2">0.9803195372340318</data>
+      <data key="d3">-0.9803195372340318</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_082410.1" target="Smp_317240.1">
+      <data key="d2">0.9879048919914014</data>
+      <data key="d3">-0.9879048919914014</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_082410.1" target="Smp_200460.1">
+      <data key="d2">0.9994101046905766</data>
+      <data key="d3">-0.9994101046905766</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_082410.1" target="Smp_336340.1">
+      <data key="d2">0.9739917614637017</data>
+      <data key="d3">-0.9739917614637017</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_181180.2" target="Smp_347540.2">
+      <data key="d2">0.9761314441326512</data>
+      <data key="d3">-0.9761314441326512</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_181180.2" target="Smp_328360.1">
+      <data key="d2">0.9813043469357887</data>
+      <data key="d3">-0.9813043469357887</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_181180.2" target="Smp_150000.1">
+      <data key="d2">0.9805247105181378</data>
+      <data key="d3">-0.9805247105181378</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_141010.2" target="Smp_167630.2">
+      <data key="d2">0.9774214714528908</data>
+      <data key="d3">-0.9774214714528908</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_141010.2" target="Smp_181180.1">
+      <data key="d2">0.9991578105027276</data>
+      <data key="d3">-0.9991578105027276</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_141010.2" target="Smp_127680.1">
+      <data key="d2">0.9914407996029685</data>
+      <data key="d3">-0.9914407996029685</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_141010.2" target="Smp_141010.3">
+      <data key="d2">0.9879491001002849</data>
+      <data key="d3">-0.9879491001002849</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_004690.2" target="Smp_323420.1">
+      <data key="d2">0.9775324481925718</data>
+      <data key="d3">-0.9775324481925718</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_004690.2" target="Smp_055870.2">
+      <data key="d2">0.9859476421488494</data>
+      <data key="d3">-0.9859476421488494</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_167630.2" target="Smp_328620.2">
+      <data key="d2">0.9729350717056517</data>
+      <data key="d3">-0.9729350717056517</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_167630.2" target="Smp_056460.1">
+      <data key="d2">0.9749029026870645</data>
+      <data key="d3">-0.9749029026870645</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_167630.2" target="Smp_058140.1">
+      <data key="d2">0.9962093778892802</data>
+      <data key="d3">-0.9962093778892802</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_041500.2" target="Smp_323420.1">
+      <data key="d2">0.9791778965266743</data>
+      <data key="d3">-0.9791778965266743</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_041500.2" target="Smp_302310.2">
+      <data key="d2">0.9703873008255736</data>
+      <data key="d3">-0.9703873008255736</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_041500.2" target="Smp_347540.2">
+      <data key="d2">0.9713324894237658</data>
+      <data key="d3">-0.9713324894237658</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_181080.1" target="Smp_074390.1">
+      <data key="d2">0.9894099750592095</data>
+      <data key="d3">-0.9894099750592095</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_181080.1" target="Smp_328910.1">
+      <data key="d2">0.9953967921044914</data>
+      <data key="d3">-0.9953967921044914</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_181080.1" target="Smp_028210.2">
+      <data key="d2">0.9809940685022088</data>
+      <data key="d3">-0.9809940685022088</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246970.2" target="Smp_074390.1">
+      <data key="d2">0.99218430871267</data>
+      <data key="d3">-0.99218430871267</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246970.2" target="Smp_328910.1">
+      <data key="d2">0.9996008504441926</data>
+      <data key="d3">-0.9996008504441926</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_246970.2" target="Smp_028210.2">
+      <data key="d2">0.9832769631598892</data>
+      <data key="d3">-0.9832769631598892</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_152580.1" target="Smp_074390.1">
+      <data key="d2">0.972968627026083</data>
+      <data key="d3">-0.972968627026083</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_152580.1" target="Smp_328910.1">
+      <data key="d2">0.9842846218730236</data>
+      <data key="d3">-0.9842846218730236</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_152580.1" target="Smp_341710.1">
+      <data key="d2">0.9863720504295524</data>
+      <data key="d3">-0.9863720504295524</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_007630.2" target="Smp_086330.2">
+      <data key="d2">0.979697407324632</data>
+      <data key="d3">-0.979697407324632</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_048050.2" target="Smp_129410.1">
+      <data key="d2">0.9893598611019975</data>
+      <data key="d3">-0.9893598611019975</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_048050.2" target="Smp_341710.1">
+      <data key="d2">0.9929075696140569</data>
+      <data key="d3">-0.9929075696140569</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318260.2" target="Smp_331600.1">
+      <data key="d2">0.9828912468005707</data>
+      <data key="d3">-0.9828912468005707</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_318260.2" target="Smp_337670.1">
+      <data key="d2">0.9732710943247931</data>
+      <data key="d3">-0.9732710943247931</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_212300.2" target="Smp_193680.1">
+      <data key="d2">0.9813261450832856</data>
+      <data key="d3">-0.9813261450832856</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_212300.2" target="Smp_341710.1">
+      <data key="d2">0.985282959205411</data>
+      <data key="d3">-0.985282959205411</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019690.1" target="Smp_302310.2">
+      <data key="d2">0.9925427559305169</data>
+      <data key="d3">-0.9925427559305169</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019690.1" target="Smp_347540.2">
+      <data key="d2">0.9964533663666715</data>
+      <data key="d3">-0.9964533663666715</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_019690.1" target="Smp_150000.1">
+      <data key="d2">0.9771838156342398</data>
+      <data key="d3">-0.9771838156342398</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_137840.2" target="Smp_346960.1">
+      <data key="d2">0.9936681081748516</data>
+      <data key="d3">-0.9936681081748516</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_137840.2" target="Smp_179390.1">
+      <data key="d2">0.9907699156917779</data>
+      <data key="d3">-0.9907699156917779</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_328620.2" target="Smp_181180.1">
+      <data key="d2">0.9975882399857351</data>
+      <data key="d3">-0.9975882399857351</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_328620.2" target="Smp_152290.1">
+      <data key="d2">0.9753717073223485</data>
+      <data key="d3">-0.9753717073223485</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_328620.2" target="Smp_127680.1">
+      <data key="d2">0.989163417365322</data>
+      <data key="d3">-0.989163417365322</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_328620.2" target="Smp_141010.3">
+      <data key="d2">0.9913469400720234</data>
+      <data key="d3">-0.9913469400720234</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_181180.1" target="Smp_056460.1">
+      <data key="d2">0.9863220355844413</data>
+      <data key="d3">-0.9863220355844413</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_181180.1" target="Smp_058140.1">
+      <data key="d2">0.9884481296876408</data>
+      <data key="d3">-0.9884481296876408</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_179970.1" target="Smp_344420.1">
+      <data key="d2">0.9840250038156165</data>
+      <data key="d3">-0.9840250038156165</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_179970.1" target="Smp_140200.2">
+      <data key="d2">0.9970818358124097</data>
+      <data key="d3">-0.9970818358124097</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323420.1" target="Smp_127870.1">
+      <data key="d2">0.9860645992643924</data>
+      <data key="d3">-0.9860645992643924</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_323420.1" target="Smp_244860.1">
+      <data key="d2">0.9796926931107444</data>
+      <data key="d3">-0.9796926931107444</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_302310.2" target="Smp_029210.2">
+      <data key="d2">0.9770346637769589</data>
+      <data key="d3">-0.9770346637769589</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_327460.1" target="Smp_347560.1">
+      <data key="d2">0.9807998943492241</data>
+      <data key="d3">-0.9807998943492241</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_314280.1" target="Smp_173380.1">
+      <data key="d2">0.9912594927727041</data>
+      <data key="d3">-0.9912594927727041</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_000790.1" target="Smp_347560.1">
+      <data key="d2">0.9934738759473942</data>
+      <data key="d3">-0.9934738759473942</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_000790.1" target="Smp_317240.1">
+      <data key="d2">0.9869378223333057</data>
+      <data key="d3">-0.9869378223333057</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_000790.1" target="Smp_200460.1">
+      <data key="d2">0.9832773000397126</data>
+      <data key="d3">-0.9832773000397126</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_056460.1" target="Smp_127680.1">
+      <data key="d2">0.9811530741593917</data>
+      <data key="d3">-0.9811530741593917</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_054620.3" target="Smp_020450.1">
+      <data key="d2">0.998779653780326</data>
+      <data key="d3">-0.998779653780326</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_054620.3" target="Smp_058050.1">
+      <data key="d2">0.9874673752191174</data>
+      <data key="d3">-0.9874673752191174</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_054620.3" target="Smp_141290.1">
+      <data key="d2">0.9718727573518173</data>
+      <data key="d3">-0.9718727573518173</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_127870.1" target="Smp_055870.2">
+      <data key="d2">0.9884881582856274</data>
+      <data key="d3">-0.9884881582856274</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_244860.1" target="Smp_055870.2">
+      <data key="d2">0.995650765158882</data>
+      <data key="d3">-0.995650765158882</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_244860.1" target="Smp_203090.1">
+      <data key="d2">0.9779189577258618</data>
+      <data key="d3">-0.9779189577258618</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_154900.1" target="Smp_314730.1">
+      <data key="d2">0.9741601695095484</data>
+      <data key="d3">-0.9741601695095484</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_140260.1" target="Smp_071590.1">
+      <data key="d2">0.9935033567023361</data>
+      <data key="d3">-0.9935033567023361</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_140260.1" target="Smp_244440.1">
+      <data key="d2">0.9892578010916834</data>
+      <data key="d3">-0.9892578010916834</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_046060.2" target="Smp_345970.1">
+      <data key="d2">0.9860924048608566</data>
+      <data key="d3">-0.9860924048608566</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_058140.3" target="Smp_346960.1">
+      <data key="d2">0.9804040986465464</data>
+      <data key="d3">-0.9804040986465464</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_058140.3" target="Smp_179390.1">
+      <data key="d2">0.9890423917710264</data>
+      <data key="d3">-0.9890423917710264</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_337670.1" target="Smp_086330.2">
+      <data key="d2">0.9782635893353417</data>
+      <data key="d3">-0.9782635893353417</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_314730.1" target="Smp_055870.2">
+      <data key="d2">0.9706869142151854</data>
+      <data key="d3">-0.9706869142151854</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_347560.1" target="Smp_340300.2">
+      <data key="d2">0.9908214060334025</data>
+      <data key="d3">-0.9908214060334025</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_214020.2" target="Smp_193680.1">
+      <data key="d2">0.9748288849537454</data>
+      <data key="d3">-0.9748288849537454</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_214020.2" target="Smp_341710.1">
+      <data key="d2">0.9874351401433655</data>
+      <data key="d3">-0.9874351401433655</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_130520.4" target="Smp_340300.2">
+      <data key="d2">0.9711046263197562</data>
+      <data key="d3">-0.9711046263197562</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_130520.4" target="Smp_150000.1">
+      <data key="d2">0.9774726661636732</data>
+      <data key="d3">-0.9774726661636732</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_317240.1" target="Smp_340300.2">
+      <data key="d2">0.9933361250579187</data>
+      <data key="d3">-0.9933361250579187</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340300.2" target="Smp_200460.1">
+      <data key="d2">0.9884692099903662</data>
+      <data key="d3">-0.9884692099903662</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_340300.2" target="Smp_336340.1">
+      <data key="d2">0.977035157796625</data>
+      <data key="d3">-0.977035157796625</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200460.1" target="Smp_328360.1">
+      <data key="d2">0.9839558601439091</data>
+      <data key="d3">-0.9839558601439091</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_200460.1" target="Smp_150000.1">
+      <data key="d2">0.9873033989266506</data>
+      <data key="d3">-0.9873033989266506</data>
+      <data key="d4">negativa</data>
+    </edge>
+    <edge source="Smp_029210.2" target="Smp_203090.1">
+      <data key="d2">0.9709551605394633</data>
+      <data key="d3">-0.9709551605394633</data>
+      <data key="d4">negativa</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,9 @@
+{
+    "tipo": "positiva",
+    "n_genes_iniciais": 300,
+    "limiar": 0.97,
+    "n_nos": 296,
+    "n_arestas": 1282,
+    "densidade": 0.029363261566651398,
+    "n_componentes": 13
+}
