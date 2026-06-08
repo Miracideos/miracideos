@@ -49,7 +49,7 @@ Os arquivos de nós e arestas foram importados no Cytoscape. As comunidades fora
 
 ## Modelo Lógico
 
-![Modelo lógico de grafos](assets/images/modelo-logico-grafos.png)
+![Modelo lógico de grafos](assets/images/modelologico.png)
 
 Modelo conceitual usado no projeto:
 
