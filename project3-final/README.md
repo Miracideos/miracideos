@@ -12,7 +12,7 @@ A rede foi separada em duas camadas: uma rede positiva, representando genes posi
 
 # Slides
 
-[Apresentação final em PDF](assets/slides/apresentacao-final.pdf)
+[Apresentação final em PDF](assets/slides/ApresentaçãoFinal_20261.pdf)
 
 # Fundamentação Teórica
 
@@ -34,7 +34,7 @@ A análise final utilizou amostras das gerações 2 e 3. A matriz TPM foi transf
 
 Foram construídas duas redes:
 
-- rede positiva: correlações positivas fortes;
+- rede positiva: correlações positivas fortes; 
 - rede negativa: correlações negativas fortes.
 
 Os arquivos de nós e arestas foram importados no Cytoscape. As comunidades foram detectadas com GLay. Em seguida, cada comunidade foi avaliada por conectividade, hubs, grau médio, anotação funcional e diferença média pareada entre alopátrico e simpátrico.
@@ -49,7 +49,7 @@ Os arquivos de nós e arestas foram importados no Cytoscape. As comunidades fora
 
 ## Modelo Lógico
 
-![Modelo lógico de grafos](assets/images/modelologico.png)
+![Modelo lógico de grafos](assets/images/modelo-logico-grafos.png)
 
 Modelo conceitual usado no projeto:
 
@@ -64,6 +64,20 @@ Modelo conceitual usado no projeto:
 ## Integração entre Bases
 
 A integração principal ocorreu em três níveis: metadados das amostras, matriz de expressão e anotação funcional. Os IDs de genes/transcritos provenientes do Salmon foram usados para construir redes e, posteriormente, buscar anotações no UniProt. Os metadados permitiram classificar as amostras como simpátricas ou alopátricas e separar as gerações usadas na análise final.
+
+## Redes de Coexpressão
+
+### Rede Positiva
+
+![Rede Positiva](assets/images/REDE_POSITIVA.png)
+
+A rede positiva representa genes com correlação positiva forte, indicando padrões coordenados de expressão.
+
+### Rede Negativa
+
+![Rede Negativa](assets/images/REDE_NEGATIVA.png)
+
+A rede negativa representa genes anticorrelacionados, indicando padrões opostos de expressão.
 
 ## Análises Realizadas
 
@@ -122,4 +136,12 @@ Como próximos passos, seria importante:
 
 # Referências Bibliográficas
 
-(Referências)
+[1] ANDREWS, S. *FastQC: A Quality Control Tool for High Throughput Sequence Data*. 2010. Disponível em: <http://www.bioinformatics.babraham.ac.uk/projects/fastqc>. Acesso em: 15 abr. 2026.
+
+[2] EWELS, P.; MAGNUSSON, M.; LUNDIN, S.; KÄLLER, M. MultiQC: summarize analysis results for multiple tools and samples in a single report. *Bioinformatics*, v. 32, n. 19, p. 3047–3048, 2016. DOI: <http://dx.doi.org/10.1093/bioinformatics/btw354>.
+
+[3] BOLGER, A. M.; LOHSE, M.; USADEL, B. Trimmomatic: a flexible trimmer for Illumina sequence data. *Bioinformatics*, v. 30, n. 15, p. 2114–2120, 2014. DOI: <https://doi.org/10.1093/bioinformatics/btu170>.
+
+[4] PATRO, R.; DUGGAL, G.; LOVE, M. I.; IRIZARRY, R. A.; KINGSFORD, C. Salmon provides fast and bias-aware quantification of transcript expression. *Nature Methods*, v. 14, n. 4, p. 417–419, 2017. DOI: <http://dx.doi.org/10.1038/nmeth.4197>.
+
+[5] MCMANUS, D. P.; DUNNE, D. W.; SACKO, M.; UTZINGER, J.; VENNERVALD, B. J.; ZHOU, X. N. Schistosomiasis. *Nature Reviews Disease Primers*, v. 4, p. 13, 2018.
